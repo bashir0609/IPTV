@@ -6,13 +6,10 @@ http://14.199.164.20:4001/play/a0su/index.m3u8
 #EXTINF:-1 tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="Movies", Boogle Bollywood (400p) [Not 24/7]
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Favourites", Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Movies", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 group-title="Favourites", Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Favourites", Zee Cinema HD
 http://103.55.144.46:80/hls/zeecinemahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Movies", Zee Cinema HD
@@ -30,10 +27,10 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Movies", Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Favourites", Sony Max
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Favourites", Sony Max
 http://103.55.144.46:80/hls/sonymax.m3u8
 
-#EXTINF:-1 group-title="Favourites", Sony Max HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Favourites", Sony Max HD
 http://103.55.144.46:80/hls/sony-maxhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Movies", Sony Max HD 
@@ -81,11 +78,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Movies", Ananda TV
 https://somoy.appv.jagobd.com:444/somoy/anandatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Favourites", Jalsha Movies HD
+http://103.55.144.46/hls/jalshamovies.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movies", Jalsha Movies HD
 http://live.flixhub.net/hls/jalshamovies.m3u8
-
-#EXTINF:-1 group-title="Favourites", Jalsha Movies HD
-http://103.55.144.46/hls/jalshamovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Movies", Zee Bangla Cinema
  http://103.170.140.8/hls/zee-bangla-cinema.m3u8
@@ -93,17 +90,17 @@ http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Movies", Star Gold HD
 http://103.166.253.222/hls/stargold2hd.m3u8
 
-#EXTINF:-1 group-title="Favourites", Star Gold HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Favourites", Star Gold HD
 http://103.55.144.46:80/hls/stargold.m3u8
 
-#EXTINF:-1 group-title="Favourites", Star Gold 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Favourites", Star Gold 2 HD
 http://103.55.144.46:80/hls/stargold2hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Favourites", UTV Action
+http://103.55.144.46:80/hls/utvaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Movies", UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Favourites", UTV Action
-http://103.55.144.46:80/hls/utvaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Entertainment", SONY HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
@@ -111,7 +108,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Favourites", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-#EXTINF:-1 group-title="Favourites", Sony Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Favourites", Sony Aath
 http://103.55.144.46/hls/Sony_Aath.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Entertainment", Sony Aath
@@ -120,13 +117,13 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Entertainment", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-#EXTINF:-1 group-title="Favourites", Colors HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Favourites", Colors HD
 http://103.55.144.46:80/hls/colore-tv-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Entertainment", Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Favourites", Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Favourites", Zee TV HD
 http://103.55.144.46:80/hls/zeetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Entertainment", Zee TV HD
@@ -134,9 +131,6 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="Entertainment", BANGLA TV HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Favourites", Bangla TV
-https://somoy.appv.jagobd.com:444/somoy/banglatvhd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Entertainment", Bangla TV
 https://somoy.appv.jagobd.com:444/somoy/banglatvhd.stream/playlist.m3u8
@@ -152,9 +146,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Entertainment", ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Favourites", NRB IPTV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Favourites", NRB IPTV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
@@ -246,27 +237,6 @@ https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="Entertainment", CHANNEL 9 HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="Entertainment", BTV WORLD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Entertainment", Ekusey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Entertainment", Ekusey TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Entertainment", Channel I HD
-https://somoy.appv.jagobd.com:444/somoy/channeli-8-org.stream/lplaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Entertainment", Bijoy TV
-https://somoy.appv.jagobd.com:444/somoy/bijoy00.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Entertainment", Maasranga HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment", GAZI TV
-http://45.127.244.7:8080/hls/channel2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Entertainment", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
@@ -276,11 +246,8 @@ http://103.166.253.222/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Entertainment", Star Jalsha HD
 http://103.170.140.8/hls/starjalsha.m3u8
 
-#EXTINF:-1 group-title="Favourites", Star Jalsha
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Favourites", Star Jalsha
 http://103.55.144.46/hls/starjalsha.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Entertainment", Sun Bangla
-https://live.durbinlive.com/hls/sunbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Entertainment", Star Plus HD
 http://103.170.140.8/hls/starplus.m3u8
@@ -414,17 +381,17 @@ http://103.170.140.8/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English", National Geographic Wild
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Favourites", Color Bangla Cinema
+#EXTINF:-1 tvg-logo="Logo N/a" group-title="Favourites", Color Bangla Cinema
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
 
-#EXTINF:-1 group-title="Favourites", Colors Cineplex
+#EXTINF:-1 tvg-logo="Logo N/a" group-title="Favourites", Colors Cineplex
 http://103.55.144.46:80/hls/colorscineplex.m3u8
 
-#EXTINF:-1 group-title="Favourites", Sony Entertainment
+#EXTINF:-1 tvg-logo="Logo N/a" group-title="Favourites", Sony Entertainment
 http://103.55.144.46:80/hls/sonyen.m3u8
 
-#EXTINF:-1 group-title="Favourites", Star Plus HD
+#EXTINF:-1 tvg-logo="Logo N/a" group-title="Favourites", Star Plus HD
 http://103.55.144.46:80/hls/starplus.m3u8
 
-#EXTINF:-1 group-title="Favourites", UTV Movies
+#EXTINF:-1 tvg-logo="Logo N/a" group-title="Favourites", UTV Movies
 http://103.55.144.46:80/hls/utv.m3u8
