@@ -392,3 +392,58 @@ http://168.205.87.198:8555/live/adriana/123456/36.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English", Rush Channel
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+
+#EXTINF:1, group-title="Favourites" Star Jalsha
+http://103.55.144.46/hls/starjalsha.m3u8
+
+#EXTINF:1, group-title="Favourites" Sony Aath
+http://103.55.144.46/hls/Sony_Aath.m3u8
+
+#EXTINF:1, group-title="Favourites" Zee Bangla HD
+http://103.55.144.46/hls/zeebanglahd.m3u8
+
+#EXTINF:1, group-title="Favourites" Zee Bangla HD
+http://str24.l9574.com:80/615.stream/index.m3u8
+
+#EXTINF:1, group-title="Favourites" Jalsha Movies HD
+http://103.55.144.46/hls/jalshamovies.m3u8
+
+#EXTINF:1, group-title="Favourites" Color Bangla Cinema
+http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
+
+#EXTINF:1, group-title="Favourites" Colors HD
+http://103.55.144.46:80/hls/colore-tv-hd.m3u8
+
+#EXTINF:1, group-title="Favourites" Colors Cineplex
+http://103.55.144.46:80/hls/colorscineplex.m3u8
+
+#EXTINF:1, group-title="Favourites" Sony Max
+http://103.55.144.46:80/hls/sonymax.m3u8
+
+#EXTINF:1, group-title="Favourites" Sony Max HD
+http://103.55.144.46:80/hls/sony-maxhd.m3u8
+
+#EXTINF:1, group-title="Favourites" Sony Entertainment
+http://103.55.144.46:80/hls/sonyen.m3u8
+
+#EXTINF:1, group-title="Favourites" Star Gold HD
+http://103.55.144.46:80/hls/stargold.m3u8
+
+#EXTINF:1, group-title="Favourites" Star Gold 2 HD
+http://103.55.144.46:80/hls/stargold2hd.m3u8
+
+#EXTINF:1, group-title="Favourites" Star Plus HD
+http://103.55.144.46:80/hls/starplus.m3u8
+
+#EXTINF:1, group-title="Favourites" UTV Movies
+http://103.55.144.46:80/hls/utv.m3u8
+
+#EXTINF:1, group-title="Favourites" UTV Action
+http://103.55.144.46:80/hls/utvaction.m3u8
+
+#EXTINF:1, group-title="Favourites" Zee Cinema HD
+http://103.55.144.46:80/hls/zeecinemahd.m3u8
+
+#EXTINF:1, group-title="Favourites" Zee TV HD
+http://103.55.144.46:80/hls/zeetv.m3u8
+
