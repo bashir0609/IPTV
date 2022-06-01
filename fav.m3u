@@ -1,9 +1,6 @@
 #EXTM3U
 #SOURCEIT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Favourites", Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Favourites", Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 
@@ -33,6 +30,9 @@ http://103.55.144.46:80/hls/utvaction.m3u8
 
 #EXTINF:-1 group-title="Favourites", UTV Movies
 http://103.55.144.46:80/hls/utv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Favourites", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 group-title="Favourites", Colors Cineplex
 http://103.55.144.46:80/hls/colorscineplex.m3u8
