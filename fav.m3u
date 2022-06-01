@@ -163,10 +163,8 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Favourites", Pogo
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
 
-#EXTM3U New Season 11 Minute Episode | Omar Hana English
-#EXTINF:0,https://www.youtube.com/watch?v=7Tr2yq85li4&list=PLw37Cz21Cob0N6dpaPNghkAgg6FDlACQY
-#EXTINF:-1, New Season 11 Minute Episode | Omar Hana English
-https://www.youtube.com/watch?v=7Tr2yq85li4&list=PLw37Cz21Cob0N6dpaPNghkAgg6FDlACQY
+#EXTINF:660,Omar & Hana - Islamic Cartoons for Kids - (NEW EPISODE) Allah's Angels | Islamic Series & Songs For Kids | Omar & Hana English
+https://rr2---sn-jtcxgb5ux-1tal.googlevideo.com/videoplayback?expire=1654106762&ei=KlaXYpqNJ_u0juMPoZeqgAI&ip=27.147.233.171&id=o-ABAbGJbcgNszuSnWNWFd_SL5h1J4gKDNgT5CUMvF2YeJ&itag=22&source=youtube&requiressl=yes&mh=GC&mm=31%2C29&mn=sn-jtcxgb5ux-1tal%2Csn-npoe7nss&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=606250&spc=4ocVC-HA2g7GlJ6TwU1Kfv4Zu_S3&vprv=1&mime=video%2Fmp4&ns=XdmTe-PU7XrTOOx9p2xOBxgG&cnr=14&ratebypass=yes&dur=660.096&lmt=1630681021255854&mt=1654084866&fvip=1&fexp=24001373%2C24007246&c=WEB&txp=5532434&n=1e26Bl8yb4sN4w&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAP89Y0Kg_yrB6H_1S0fDQyU5vv5QXBQFxCmczhiowl5cAiBhdXyngA18YrIvP9oYw4gnGBhVByUHFNafmxjVXUEbxw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIHWK5V8HbZ7wArZkjftjU9xqQvNyyclMqeQL1ZBQBKiAiA40wB0_4ZBwYWy7XhqIHA9bzMhXnO7XUV0F4utFuVrZw%3D%3D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Favourites", T SPORTS
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
