@@ -9,6 +9,8 @@ http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 
 #EXTINF:-1 group-title="Favourites", Zee Cinema HD
 http://103.55.144.46:80/hls/zeecinemahd.m3u8
+
+#EXTINF:-1 group-title="Favourites", Zee Cinema HD
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Favourites", Zee Action
