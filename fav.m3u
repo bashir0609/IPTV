@@ -10,14 +10,19 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Favourites", Sony Max
 
+#EXTINF:-1,IN: Now Cinema FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267177
+
+#EXTINF:-1,IN: Star Gold
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1070
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Favourites", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Favourites", Manaranjon TV
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
-
 #EXTINF:-1 group-title="Favourites", UTV Movies
 http://103.55.144.46:80/hls/utv.m3u8
+
+#EXTINF:-1 group-title="Favourites", UTV Action
 
 #EXTINF:-1,IN: UTV Movies HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/284584
@@ -34,37 +39,26 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1 group-title="Favourites", Star Gold HD
 http://103.55.144.46:80/hls/stargold.m3u8
 
-#EXTINF:-1,IN: Star Gold HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1070
-
 #EXTINF:-1 group-title="Favourites", Star Gold 2 HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43919
 
 #EXTINF:-1 group-title="Favourites", &Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
 
-#EXTINF:-1,IN: & Now HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/82513
-
 #EXTINF:-1,IN: & pictures HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16958
-
-#EXTINF:-1,IN: & TV HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16964
 
 #EXTINF:-1 group-title="Favourites", Colors Cineplex HD
 http://103.55.144.46:80/hls/colorscineplex.m3u8
 
-#EXTINF:-1 group-title="Favourites", UTV Action
-
 #EXTINF:-1 group-title="Favourites", Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
 
+#EXTINF:-1,IN: & Now HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/82513
+
 #EXTINF:-1,IN: B4U Movies HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1369
-
-#EXTINF:-1,IN: Now Cinema FHD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267177
 
 #EXTINF:-1,IN: Sony Pix HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/49539
@@ -96,6 +90,9 @@ http://103.55.144.46:80/hls/sonyen.m3u8
 
 #EXTINF:-1,IN: Sony HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281867
+
+#EXTINF:-1,IN: & TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16964
 
 #EXTINF:-1,IN: Set India FHD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1072
