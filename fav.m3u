@@ -22,9 +22,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="Favourites", Zee Cinema HD
 http://103.55.144.46:80/hls/zeecinemahd.m3u8
 
-#EXTINF:-1 group-title="Favourites", Zee Cinema HD
-http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
-
 #EXTINF:-1 group-title="Favourites", Sony Max HD
 http://103.55.144.46:80/hls/sony-maxhd.m3u8
 
