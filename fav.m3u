@@ -19,18 +19,35 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="Favourites", UTV Movies
 http://103.55.144.46:80/hls/utv.m3u8
 
-#EXTINF:-1 group-title="Favourites", Zee Cinema HD
+#EXTINF:-1,IN: UTV Movies HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/284584
+
+#EXTINF:-1,IN: Zee Cinema HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1350
 
 #EXTINF:-1 group-title="Favourites", Sony Max HD
 http://103.55.144.46:80/hls/sony-maxhd.m3u8
 
+#EXTINF:-1,IN: Sony Max HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1359
+
 #EXTINF:-1 group-title="Favourites", Star Gold HD
 http://103.55.144.46:80/hls/stargold.m3u8
 
+#EXTINF:-1,IN: Star Gold HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1070
+
 #EXTINF:-1 group-title="Favourites", Star Gold 2 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43919
 
 #EXTINF:-1 group-title="Favourites", &Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
+
+#EXTINF:-1,IN: & pictures HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16958
+
+#EXTINF:-1,IN: & TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16964
 
 #EXTINF:-1 group-title="Favourites", Colors Cineplex HD
 http://103.55.144.46:80/hls/colorscineplex.m3u8
@@ -39,6 +56,21 @@ http://103.55.144.46:80/hls/colorscineplex.m3u8
 
 #EXTINF:-1 group-title="Favourites", Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
+
+#EXTINF:-1,IN: B4U Movies HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1369
+
+#EXTINF:-1,IN: Now Cinema FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267177
+
+#EXTINF:-1,IN: Sony Pix HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/49539
+
+#EXTINF:-1,IN: STAR Movies HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11511
+
+#EXTINF:-1,IN: Zee Bangla Cinema HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21658
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="Favourites", Movie Bangla
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
@@ -59,9 +91,17 @@ http://103.55.144.46:80/hls/colore-tv-hd.m3u8
 #EXTINF:-1 group-title="Favourites", Sony HD
 http://103.55.144.46:80/hls/sonyen.m3u8
 
-#EXTINF:-1 group-title="Favourites", Star Plus HD
+#EXTINF:-1,IN: Sony HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281867
 
-#EXTINF:-1 group-title="Favourites", Zee TV HD
+#EXTINF:-1,IN: Set India FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1072
+
+#EXTINF:-1 group-title="Favourites", Star Plus HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16091
+
+#EXTINF:-1,IN: Zee TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/197423
 
 #EXTINF:-1 group-title="Favourites", Star Jalsha
 http://103.55.144.46/hls/starjalsha.m3u8
@@ -69,8 +109,14 @@ http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 group-title="Favourites", Colors Bangla HD
 http://103.55.144.46:80/hls/colorsbangla.m3u8
 
+#EXTINF:-1,IN: COLORS Bangla HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/247530
+
 #EXTINF:-1 group-title="Favourites", Zee Bangla HD
 http://103.55.144.46:80/hls/zeebanglahd.m3u8
+
+#EXTINF:-1,IN: Zee Bangla HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/145632
 
 #EXTINF:-1 group-title="Favourites", Sun Bangla HD
 http://103.55.144.46/hls/sunbangla.m3u8
