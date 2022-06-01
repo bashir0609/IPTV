@@ -9,7 +9,6 @@ http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Favourites", Sony Max
-http://103.55.144.46:80/hls/sonymax.m3u8
 
 #EXTINF:-1 group-title="Favourites", UTV Movies
 http://103.55.144.46:80/hls/utv.m3u8
@@ -21,7 +20,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 
 #EXTINF:-1 group-title="Favourites", Zee Cinema HD
-http://103.55.144.46:80/hls/zeecinemahd.m3u8
 
 #EXTINF:-1 group-title="Favourites", Sony Max HD
 http://103.55.144.46:80/hls/sony-maxhd.m3u8
@@ -30,7 +28,6 @@ http://103.55.144.46:80/hls/sony-maxhd.m3u8
 http://103.55.144.46:80/hls/stargold.m3u8
 
 #EXTINF:-1 group-title="Favourites", Star Gold 2 HD
-http://103.55.144.46:80/hls/stargold2hd.m3u8
 
 #EXTINF:-1 group-title="Favourites", &Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
@@ -39,7 +36,6 @@ http://103.55.144.46/hls/andpictures.m3u8
 http://103.55.144.46:80/hls/colorscineplex.m3u8
 
 #EXTINF:-1 group-title="Favourites", UTV Action
-http://103.55.144.46:80/hls/utvaction.m3u8
 
 #EXTINF:-1 group-title="Favourites", Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
@@ -51,7 +47,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTINF:-1 tvg-logo="https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/173846597_102614918631004_2234350214659444233_n.jpg" group-title="Favourites", K TV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="Favourites", ANANDA TV HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="Favourites", Ananda TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Favourites", Sony Aath HD
@@ -64,10 +60,8 @@ http://103.55.144.46:80/hls/colore-tv-hd.m3u8
 http://103.55.144.46:80/hls/sonyen.m3u8
 
 #EXTINF:-1 group-title="Favourites", Star Plus HD
-http://103.55.144.46:80/hls/starplus.m3u8
 
 #EXTINF:-1 group-title="Favourites", Zee TV HD
-http://103.55.144.46:80/hls/zeetv.m3u8
 
 #EXTINF:-1 group-title="Favourites", Star Jalsha
 http://103.55.144.46/hls/starjalsha.m3u8
@@ -102,7 +96,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 group-title="Favourites", Gazi TV HD
 http://103.55.144.46/hls/Gazi-TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" group-title="Favourites", ASIAN TV HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" group-title="Favourites", Asian TV HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Favourites", Boishakhi TV
@@ -111,7 +105,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png" group-title="Favourites", Banglavision
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="Favourites", MY TV HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="Favourites", MY TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Favourites", Nick
