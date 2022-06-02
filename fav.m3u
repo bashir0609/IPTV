@@ -10,10 +10,10 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Favourites", Sony Max
 
-#EXTINF:-1,IN: Now Cinema FHD
+#EXTINF:-1 group-title="iptvtree", Now Cinema FHD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/267177
 
-#EXTINF:-1,IN: Star Gold
+#EXTINF:-1 group-title="iptvtree", Star Gold
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1070
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Favourites", Bflix Movies
@@ -24,28 +24,28 @@ http://103.55.144.46:80/hls/utv.m3u8
 
 #EXTINF:-1 group-title="Favourites", UTV Action
 
-#EXTINF:-1,IN: UTV Movies HD
+#EXTINF:-1 group-title="iptvtree", UTV Movies HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/284584
 
-#EXTINF:-1,IN: Zee Cinema HD
+#EXTINF:-1 group-title="iptvtree", Zee Cinema HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1350
 
 #EXTINF:-1 group-title="Favourites", Sony Max HD
 http://103.55.144.46:80/hls/sony-maxhd.m3u8
 
-#EXTINF:-1,IN: Sony Max HD
+#EXTINF:-1 group-title="iptvtree", Sony Max HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1359
 
 #EXTINF:-1 group-title="Favourites", Star Gold HD
 http://103.55.144.46:80/hls/stargold.m3u8
 
-#EXTINF:-1 group-title="Favourites", Star Gold 2 HD
+#EXTINF:-1 group-title="iptvtree", Star Gold 2 HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43919
 
 #EXTINF:-1 group-title="Favourites", &Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
 
-#EXTINF:-1,IN: & pictures HD
+#EXTINF:-1 group-title="iptvtree", & pictures HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16958
 
 #EXTINF:-1 group-title="Favourites", Colors Cineplex HD
@@ -54,19 +54,19 @@ http://103.55.144.46:80/hls/colorscineplex.m3u8
 #EXTINF:-1 group-title="Favourites", Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
 
-#EXTINF:-1,IN: & Now HD
+#EXTINF:-1 group-title="iptvtree", & Now HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/82513
 
-#EXTINF:-1,IN: B4U Movies HD
+#EXTINF:-1 group-title="iptvtree", B4U Movies HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1369
 
-#EXTINF:-1,IN: Sony Pix HD
+#EXTINF:-1 group-title="iptvtree", Sony Pix HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/49539
 
-#EXTINF:-1,IN: STAR Movies HD
+#EXTINF:-1 group-title="iptvtree", STAR Movies HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11511
 
-#EXTINF:-1,IN: Zee Bangla Cinema HD
+#EXTINF:-1 group-title="iptvtree", Zee Bangla Cinema HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21658
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="Favourites", Movie Bangla
@@ -88,19 +88,19 @@ http://103.55.144.46:80/hls/colore-tv-hd.m3u8
 #EXTINF:-1 group-title="Favourites", Sony HD
 http://103.55.144.46:80/hls/sonyen.m3u8
 
-#EXTINF:-1,IN: Sony HD
+#EXTINF:-1 group-title="iptvtree", Sony HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/281867
 
-#EXTINF:-1,IN: & TV HD
+#EXTINF:-1 group-title="iptvtree", & TV HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16964
 
-#EXTINF:-1,IN: Set India FHD
+#EXTINF:-1 group-title="iptvtree", Set India FHD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1072
 
-#EXTINF:-1 group-title="Favourites", Star Plus HD
+#EXTINF:-1 group-title="iptvtree", Star Plus HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/16091
 
-#EXTINF:-1,IN: Zee TV HD
+#EXTINF:-1 group-title="iptvtree", Zee TV HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/197423
 
 #EXTINF:-1 group-title="Favourites", Star Jalsha
@@ -109,13 +109,13 @@ http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 group-title="Favourites", Colors Bangla HD
 http://103.55.144.46:80/hls/colorsbangla.m3u8
 
-#EXTINF:-1,IN: COLORS Bangla HD
+#EXTINF:-1 group-title="iptvtree", COLORS Bangla HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/247530
 
 #EXTINF:-1 group-title="Favourites", Zee Bangla HD
 http://103.55.144.46:80/hls/zeebanglahd.m3u8
 
-#EXTINF:-1,IN: Zee Bangla HD
+#EXTINF:-1 group-title="iptvtree", Zee Bangla HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/145632
 
 #EXTINF:-1 group-title="Favourites", Sun Bangla HD
@@ -155,16 +155,13 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Favourites", Nick
-https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+http://103.55.144.46/hls/nick.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Favourites", Duronto TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Favourites", Pogo
-http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
-
-#EXTINF:660,Omar & Hana - Islamic Cartoons for Kids - (NEW EPISODE) Allah's Angels | Islamic Series & Songs For Kids | Omar & Hana English
-https://rr2---sn-jtcxgb5ux-1tal.googlevideo.com/videoplayback?expire=1654106762&ei=KlaXYpqNJ_u0juMPoZeqgAI&ip=27.147.233.171&id=o-ABAbGJbcgNszuSnWNWFd_SL5h1J4gKDNgT5CUMvF2YeJ&itag=22&source=youtube&requiressl=yes&mh=GC&mm=31%2C29&mn=sn-jtcxgb5ux-1tal%2Csn-npoe7nss&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=606250&spc=4ocVC-HA2g7GlJ6TwU1Kfv4Zu_S3&vprv=1&mime=video%2Fmp4&ns=XdmTe-PU7XrTOOx9p2xOBxgG&cnr=14&ratebypass=yes&dur=660.096&lmt=1630681021255854&mt=1654084866&fvip=1&fexp=24001373%2C24007246&c=WEB&txp=5532434&n=1e26Bl8yb4sN4w&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAP89Y0Kg_yrB6H_1S0fDQyU5vv5QXBQFxCmczhiowl5cAiBhdXyngA18YrIvP9oYw4gnGBhVByUHFNafmxjVXUEbxw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIHWK5V8HbZ7wArZkjftjU9xqQvNyyclMqeQL1ZBQBKiAiA40wB0_4ZBwYWy7XhqIHA9bzMhXnO7XUV0F4utFuVrZw%3D%3D
+http://103.55.144.46/hls/pogo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="Favourites", T SPORTS
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
