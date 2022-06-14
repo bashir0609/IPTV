@@ -1,188 +1,161 @@
 #EXTM3U
-#SOURCEIT
-
-#EXTINF:-1 group-title="Favourites", Zee Cinema
+#EXTINF:-1,Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
-
-#EXTINF:-1 group-title="Favourites", Zee Cinema HD
+#EXTINF:-1,Zee Cinema HD
 http://103.55.144.46/hls/zeecinemahd.m3u8
-
-#EXTINF:-1 group-title="Favourites", Zee Action
+#EXTINF:-1,Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Favourites", Sony Max
-http://103.55.144.46/hls/sonymax.m3u8
-
-#EXTINF:-1 group-title="Favourites", Sony Max HD
+#EXTINF:-1,Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
-
-#EXTINF:-1 group-title="Favourites", Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
-#EXTINF:-1 group-title="Favourites", UTV Movies
+#EXTINF:-1,UTV Movies
 http://103.55.144.46/hls/utv.m3u8
-
-#EXTINF:-1 group-title="Favourites", UTV Action
+#EXTINF:-1,UTV Action
 http://103.55.144.46/hls/utvaction.m3u8
-
-#EXTINF:-1 group-title="Movies", UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Favourites", Star Gold HD
+#EXTINF:-1,Star Gold HD
 http://103.55.144.46/hls/stargold.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Movies", Star Gold 2 HD
-http://103.55.144.46/hls/stargold2hd.m3u8
-
-#EXTINF:-1 group-title="Favourites", &Pictures HD
+#EXTINF:-1, and Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
-
-#EXTINF:-1 group-title="Favourites", Colors Cineplex HD
+#EXTINF:-1,Colors Cineplex HD
 http://103.55.144.46/hls/colorscineplex.m3u8
-
 #EXTINF:-1 group-title="Favourites", Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
+#EXTINF:-1,Nan IPTV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Movies", Manoranjan Movies
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+saWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+#EXTINF:-1,Movie Bangla
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmd
 
-#EXTINF:-1 group-title="Favourites", Nan IPTV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Favourites", Movie Bangla
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Movies", Movie Bangla TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Favourites", K TV
+FsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1,K TV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:-1,Ananda TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Favourites", Ananda TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Favourites", Jalsha Movies HD
+saWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:-1,Jalsha Movies HD
 http://103.55.144.46/hls/jalshamovies.m3u8
-
-#EXTINF:-1 group-title="Favourites", Sony HD
+#EXTINF:-1,Sony HD
 http://103.55.144.46/hls/sonyen.m3u8
-#EXTINF:-1 group-title="Favourites", Sony TS
-http://103.55.144.46/hls/sonyen-83661.ts
-
-#EXTINF:-1 group-title="Entertainment", SONY HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Favourites", Colors HD
+#EXTINF:-1,Colors HD
 http://103.55.144.46/hls/colore-tv-hd.m3u8
-
-#EXTINF:-1 group-title="Favourites", Zee TV HD
+#EXTINF:-1,Zee TV HD
 http://103.55.144.46/hls/zeetv.m3u8
-
-#EXTINF:-1 group-title="Favourites", Star Plus HD
+#EXTINF:-1,Star Plus HD
 http://103.55.144.46/hls/starplus.m3u8
-
-#EXTINF:-1 group-title="Favourites", Colors Bangla HD
+#EXTINF:-1,Colors Bangla HD
 http://103.55.144.46/hls/colorsbangla.m3u8
-
-#EXTINF:-1 group-title="Favourites", Zee Bangla HD
+#EXTINF:-1,Zee Bangla HD
 http://103.55.144.46/hls/zeebanglahd.m3u8
-
-#EXTINF:-1 group-title="Favourites", Star Jalsha
+#EXTINF:-1,Star Jalsha
 http://103.55.144.46/hls/starjalsha.m3u8
-
-#EXTINF:-1 group-title="Favourites", Sun Bangla HD
-http://103.55.144.46/hls/sunbangla.m3u8
-
-#EXTINF:-1 group-title="Favourites", Sony Aath HD
+#EXTINF:-1,Sony Aath HD
 http://103.55.144.46/hls/Sony_Aath.m3u8
-
-#EXTINF:-1 group-title="Favourites", Sony Aath
+#EXTINF:-1,Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1,Asian TV HD
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Favourites", Asian TV HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1,ATN BANGLA
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Favourites", ATN BANGLA
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Entertainment", ATN Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Favourites", Boishakhi TV
+saWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1,Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1,Banglavision
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", BOISHAKHI TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:-1,MY TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Favourites", Banglavision
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1,Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-
 
-#EXTINF:-1 group-title="Entertainment", Banglavision HD
-https://rhridoy136.shortcm.li/banglavisiontv.m3u8
+video=877600.m3u8
+#EXTINF:-1,UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Gold 2 HD
+http://103.55.144.46/hls/stargold2hd.m3u8
+#EXTINF:-1,Movie Bangla TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:48,Ekushey TV (480p)
-#EXTVLCOPT:network-caching=1000
-https://ekusheyserver.com/etvlivesn.m3u8
+saWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1,SONY HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATN Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRta
 
-#EXTINF:-1 group-title="Favourites", MY TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+W51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1,BOISHAKHI TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", MY TV Bangla
-https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1,MY TV Bangla
+https://tempx.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRta
 
-#EXTINF:-1 group-title="Favourites", Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+W51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1,BANGLA TV HD
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", BANGLA TV HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1,Mohona TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", Mohona TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1,Varendra TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", Varendra TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
+#EXTINF:-1,Alpona IPTV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", Alpona IPTV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+#EXTINF:-1,RTV HD
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", RTV HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment", NTV
+saWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1,NTV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1,CHANNEL 9 HD
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", CHANNEL 9 HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#EXTINF:-1,NRB IPTV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", NRB IPTV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1,Royal TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", Royal TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+#EXTINF:-1,Deshe Bideshe
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Entertainment", Deshe Bideshe
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+#EXTINF:-1,ATN Islamic
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Islamic", ATN Islamic
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1,Gaan Bangla
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="Music", Gaan Bangla
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1,Somoy TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:0 group-title="Music", Masti
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+saWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1,Jamuna TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRta
 
-#EXTINF:-1 group-title="News", Somoy TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+W51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1,NEWS 24 HD
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdF
 
-#EXTINF:-1 group-title="News", Jamuna TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+saWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:-1,News 24 HD
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51
 
-#EXTINF:-1 group-title="News", NEWS 24 HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="News", News 24 HD
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="English", National Geographic Wild Arabic
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
