@@ -1,695 +1,1486 @@
-﻿#EXTM3U
-#EXTINF:-1,NDTV INDIA
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="News",BBC WORLD TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1475
+#EXTINF:0 tvg-id="ext" group-title="News",CNN INTERNASONAL
+http://tv.univisionlive.net:25461/bashir/bashir@98/1474
+#EXTINF:0 tvg-id="ext" group-title="News",AL JAZEERA TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1473
+#EXTINF:0 tvg-id="DeutscheWelle.de" group-title="News",DW NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/2319
+#EXTINF:0 tvg-id="ext" group-title="News",SKY NEWS USA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3428
+#EXTINF:0 tvg-id="ABCNews.al" group-title="News",ABC NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/3105
+#EXTINF:0 tvg-id="ext" group-title="News",NDTV 24/7
+http://tv.univisionlive.net:25461/bashir/bashir@98/1480
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="News",ZEE NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/1609
+#EXTINF:0 tvg-id="ext" group-title="News",GOLOBAL NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/1544
+#EXTINF:0 tvg-id="france24" group-title="News",FRANCE 24 ENGLISH
+http://tv.univisionlive.net:25461/bashir/bashir@98/3430
+#EXTINF:0 tvg-id="ext" group-title="News",RT NEWSA ENGLISH
+http://tv.univisionlive.net:25461/bashir/bashir@98/2318
+#EXTINF:0 tvg-id="ext" group-title="News",AAJTAK NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/1384
+#EXTINF:0 tvg-id="CGTN.cn" group-title="News",CGTN
+http://tv.univisionlive.net:25461/bashir/bashir@98/2341
+#EXTINF:0 tvg-id="ext" group-title="News",TRT WORLD NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/2910
+#EXTINF:0 tvg-id="ext" group-title="News",NEWS 18 HINDI
+http://tv.univisionlive.net:25461/bashir/bashir@98/3015
+#EXTINF:0 tvg-id="ext" group-title="News",INC TV NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/3116
+#EXTINF:0 tvg-id="NDTVProfit.in" group-title="News",NDTV PROFIT
+http://tv.univisionlive.net:25461/bashir/bashir@98/3119
+#EXTINF:0 tvg-id="ext" group-title="News",NEWS 24 INDIA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3144
+#EXTINF:0 tvg-id="NDTV.uk" group-title="News",NDTV INDIA
 http://tv.univisionlive.net:25461/bashir/bashir@98/3148
-#EXTINF:-1,BANSAL NEWS
+#EXTINF:0 tvg-id="ext" group-title="News",IBC24 TV INDIA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3159
+#EXTINF:0 tvg-id="BansalNews.in" group-title="News",BANSAL NEWS
 http://tv.univisionlive.net:25461/bashir/bashir@98/3168
-#EXTINF:-1,BTV
+#EXTINF:0 tvg-id="ext" group-title="News",ARIRANG NEWS (KOREA)
+http://tv.univisionlive.net:25461/bashir/bashir@98/3427
+#EXTINF:0 tvg-id="ext" group-title="News",TWENTY FOUR NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/4150
+
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Bangladesh",BTV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1746
-#EXTINF:-1,BTV WORLD
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Bangladesh",BTV WORLD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1302
-#EXTINF:-1,ATN BANGLA
+#EXTINF:0 tvg-id="ATNBanglaUK.uk" group-title="Bangladesh",ATN BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/4487
-#EXTINF:-1,CHANNEL I
+#EXTINF:0 tvg-id="Channeli.uk" group-title="Bangladesh",CHANNEL I
 http://tv.univisionlive.net:25461/bashir/bashir@98/1295
-#EXTINF:-1,EKUSHEY TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",EKUSHEY TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1315
-#EXTINF:-1,N TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",N TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1296
-#EXTINF:-1,R TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",R TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1297
-#EXTINF:-1,CHANNEL 24 HD
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",CHANNEL 24 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4096
-#EXTINF:-1,JAMUNA TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",JAMUNA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1332
-#EXTINF:-1,SOMOY TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",SOMOY TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1333
-#EXTINF:-1,SOMOY TV HD
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",SOMOY TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/3178
-#EXTINF:-1,ATN NEWS
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",ATN NEWS
 http://tv.univisionlive.net:25461/bashir/bashir@98/1300
-#EXTINF:-1,INDEPENDENT TELEVISION
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",INDEPENDENT TELEVISION
 http://tv.univisionlive.net:25461/bashir/bashir@98/1326
-#EXTINF:-1,EKATTOR TV HD
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",EKATTOR TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/3113
-#EXTINF:-1,DBC NEWS
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",DBC NEWS
 http://tv.univisionlive.net:25461/bashir/bashir@98/1338
-#EXTINF:-1,NEWS 24 HD
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",NEWS 24 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1342
-#EXTINF:-1,GAZI TV HD
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",GAZI TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1311
-#EXTINF:-1,BOUSHAKHI TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",BOUSHAKHI TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1305
-#EXTINF:-1,BOISHAKHAI PLUS
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",BOISHAKHAI PLUS
 http://tv.univisionlive.net:25461/bashir/bashir@98/1340
-#EXTINF:-1,BANGLAVISION
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",BANGLAVISION
 http://tv.univisionlive.net:25461/bashir/bashir@98/1299
-#EXTINF:-1,MASRANGA TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",MASRANGA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1307
-#EXTINF:-1,DEEPTO TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",DEEPTO TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1316
-#EXTINF:-1,DEEPTO TV HD
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",DEEPTO TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2659
-#EXTINF:-1,ASIAN TV HD
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",ASIAN TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2727
-#EXTINF:-1,SA TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",SA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1301
-#EXTINF:-1,DESH TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",DESH TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1320
-#EXTINF:-1,MY TV
+#EXTINF:0 tvg-id="MYTV.in" group-title="Bangladesh",MY TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1308
-#EXTINF:-1,NAGORIK TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",NAGORIK TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1298
-#EXTINF:-1,MOHONA TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",MOHONA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1309
-#EXTINF:-1,CHANNEL 9
+#EXTINF:0 tvg-id="Channel9.il" group-title="Bangladesh",CHANNEL 9
 http://tv.univisionlive.net:25461/bashir/bashir@98/2316
-#EXTINF:-1,BANGLA TV HD
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",BANGLA TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1323
-#EXTINF:-1,ANANDA TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",ANANDA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1312
-#EXTINF:-1,DURONTO TV***
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",DURONTO TV***
 http://tv.univisionlive.net:25461/bashir/bashir@98/1778
-#EXTINF:-1,BIJOY TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",BIJOY TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1318
-#EXTINF:-1,MOVIE BANGLA
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",MOVIE BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/1327
-#EXTINF:-1,GAANBANGLA TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",GAANBANGLA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1339
-#EXTINF:-1,ATN MUSIC
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",ATN MUSIC
 http://tv.univisionlive.net:25461/bashir/bashir@98/1341
-#EXTINF:-1,NEXUS TV
+#EXTINF:0 tvg-id="ext" group-title="Bangladesh",NEXUS TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2820
-#EXTINF:-1,MAGIC BANGLA TV
+
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",MAGIC BANGLA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1325
-#EXTINF:-1,ROYAL TV
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",ROYAL TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1336
-#EXTINF:-1,CNN BANGLA TV
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",CNN BANGLA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1346
-#EXTINF:-1,NANDAN TV
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",NANDAN TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1463
-#EXTINF:-1,CHANNEL S TV
+#EXTINF:0 tvg-id="CHSTV.uk" group-title="Probashi Bangla",CHANNEL S TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1464
-#EXTINF:-1,MILLENNINIUM TV HD
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",MILLENNINIUM TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1501
-#EXTINF:-1,NRB TV HD
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",NRB TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1507
-#EXTINF:-1,COMILLA 24
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",NAKSHI TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1508
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",COMILLA 24
 http://tv.univisionlive.net:25461/bashir/bashir@98/1580
-#EXTINF:-1,MEGNA TV
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",CAN BANGLA TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1749
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",JONMO BHUMI TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1756
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",MEGNA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2530
-#EXTINF:-1,KTV BANGLA
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",KTV BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/2732
-#EXTINF:-1,BANGLA 21 TV
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",BANGLA 21 TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2735
-#EXTINF:-1,PROBASHI BANGLA
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",BISSWA BANGLA TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2736
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",DESHE BIDESHE TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2737
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",PROBASHI BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/2772
-#EXTINF:-1,STAR JALSHA
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",TIME TELEVISION
+http://tv.univisionlive.net:25461/bashir/bashir@98/2813
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",GBANGLA TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3009
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",AMAR BANGLA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3182
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",DOYEL TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3192
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",SADHIN BANGLA HD TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3315
+#EXTINF:0 tvg-id="ATNBanglaUK.uk" group-title="Probashi Bangla",ATN BANGLA UK
+http://tv.univisionlive.net:25461/bashir/bashir@98/3758
+#EXTINF:0 tvg-id="ext" group-title="Probashi Bangla",SHADHINBANGLA HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/4053
+
+#EXTINF:0 tvg-id="StarJalsha.uk" group-title="Kolkata Bangla",STAR JALSHA
 http://tv.univisionlive.net:25461/bashir/bashir@98/1562
-#EXTINF:-1,STAR JALSHA HD
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",STAR JALSHA HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2533
-#EXTINF:-1,JALSHA MOVIE
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",JALSHA MOVIE
 http://tv.univisionlive.net:25461/bashir/bashir@98/2528
-#EXTINF:-1,JALSHA MOVIE HD
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",JALSHA MOVIE HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4482
-#EXTINF:-1,ZEE BANGLA
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Kolkata Bangla",ZEE BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/2527
-#EXTINF:-1,ZEE BANGLA CINEMA
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Kolkata Bangla",ZEE BANGLA HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/1347
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",ZEE BANGLA CINEMA
 http://tv.univisionlive.net:25461/bashir/bashir@98/2351
-#EXTINF:-1,COLORS BANGLA HD
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",COLORS BANGLA HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1565
-#EXTINF:-1,SANGEET BANGLA
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",COLORS BANGLA CINEMA
+http://tv.univisionlive.net:25461/bashir/bashir@98/4476
+#EXTINF:0 tvg-id="SangeetBangla.in" group-title="Kolkata Bangla",SANGEET BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/3187
-#EXTINF:-1,SONY AATH
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",SONY AATH
 http://tv.univisionlive.net:25461/bashir/bashir@98/1354
-#EXTINF:-1,SUN BANGLA
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",SUN BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/1353
-#EXTINF:-1,ENTER 10 BANGLA
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",ENTER 10 BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/1355
-#EXTINF:-1,RUPOSHI BANGLA
+#EXTINF:0 tvg-id="RuposhiBangla.in" group-title="Kolkata Bangla",RUPOSHI BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/2730
-#EXTINF:-1,AKASH  AATH
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",AKASH  AATH
 http://tv.univisionlive.net:25461/bashir/bashir@98/2352
-#EXTINF:-1,ZEE 24 GHONTA
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",ZEE 24 GHONTA
 http://tv.univisionlive.net:25461/bashir/bashir@98/3160
-#EXTINF:-1,BANGLA TALKIES
+#EXTINF:0 tvg-id="ext" group-title="Kolkata Bangla",BANGLA TALKIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/4634
-#EXTINF:-1,STAR PLUS HD
+
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="Hindi Entertainment",STAR PLUS HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2354
-#EXTINF:-1,STAR PLUS 4K
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",STAR PLUS 4K
 http://tv.univisionlive.net:25461/bashir/bashir@98/1485
-#EXTINF:-1,UTSAV PLUS HD
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",UTSAV PLUS HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4126
-#EXTINF:-1,STAR BHARAT 4K
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",STAR BHARAT 4K
 http://tv.univisionlive.net:25461/bashir/bashir@98/1566
-#EXTINF:-1,SONY TV
+#EXTINF:0 tvg-id="set" group-title="Hindi Entertainment",SONY TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1391
-#EXTINF:-1,SONY TV 4K
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",SONY TV 4K
 http://tv.univisionlive.net:25461/bashir/bashir@98/2311
-#EXTINF:-1,SONY SAB HD
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",SONY SAB HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1385
-#EXTINF:-1,ZEE TV HD
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Hindi Entertainment",ZEE TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4157
-#EXTINF:-1,ZEE ANMOL
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",ZEE ANMOL
 http://tv.univisionlive.net:25461/bashir/bashir@98/3110
-#EXTINF:-1,COLORS HD
+#EXTINF:0 tvg-id="Colors.in" group-title="Hindi Entertainment",COLORS HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1394
-#EXTINF:-1,AAPKA COLORS HD
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",AAPKA COLORS HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2768
-#EXTINF:-1, and TV HD
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",&TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2236
-#EXTINF:-1,SHEMAROO TV
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",SHEMAROO TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2234
-#EXTINF:-1,DD NATIONAL
+#EXTINF:0 tvg-id="karusel" group-title="Hindi Entertainment",DD NATIONAL
 http://tv.univisionlive.net:25461/bashir/bashir@98/1387
-#EXTINF:-1,STAR GOLD  HD
+
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title=" Hindi Movies",STAR GOLD  HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1556
-#EXTINF:-1,Star Gold 2
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",Star Gold 2
 http://tv.univisionlive.net:25461/bashir/bashir@98/4499
-#EXTINF:-1,STAR GOLD SELECT 4K
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",STAR GOLD SELECT 4K
 http://tv.univisionlive.net:25461/bashir/bashir@98/2532
-#EXTINF:-1,SONY MAX HD
+#EXTINF:0 tvg-id="SonyMAX.in" group-title=" Hindi Movies",SONY MAX HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2313
-#EXTINF:-1,SONY MAX 2
+#EXTINF:0 tvg-id="SonyMax2.uk" group-title=" Hindi Movies",SONY MAX 2
 http://tv.univisionlive.net:25461/bashir/bashir@98/4500
-#EXTINF:-1,SONY WAH
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",SONY WAH
 http://tv.univisionlive.net:25461/bashir/bashir@98/4641
-#EXTINF:-1,ZEE CINEMA HD
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title=" Hindi Movies",ZEE CINEMA HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1557
-#EXTINF:-1,ZEE BOLLYWOOD
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title=" Hindi Movies",ZEE BOLLYWOOD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4652
-#EXTINF:-1,ZEE ANMOL CINEMA
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",ZEE ANMOL CINEMA
 http://tv.univisionlive.net:25461/bashir/bashir@98/4580
-#EXTINF:-1,ZEE ACTION
+#EXTINF:0 tvg-id="ZeeAction.in" group-title=" Hindi Movies",ZEE ACTION
 http://tv.univisionlive.net:25461/bashir/bashir@98/1809
-#EXTINF:-1,MBC Bollywood FHD
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title=" Hindi Movies",MBC Bollywood FHD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4581
-#EXTINF:-1,COLORS CINEPLEX HD
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",COLORS CINEPLEX HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2849
-#EXTINF:-1,UTV ACTION
+#EXTINF:0 tvg-id="UTVAction.in" group-title=" Hindi Movies",UTV ACTION
 http://tv.univisionlive.net:25461/bashir/bashir@98/3436
-#EXTINF:-1, and  XPLOR 4K
+#EXTINF:0 tvg-id="UMPMovies.uk" group-title=" Hindi Movies",UTV MOVIES
+http://tv.univisionlive.net:25461/bashir/bashir@98/4237
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",& XPLOR 4K
 http://tv.univisionlive.net:25461/bashir/bashir@98/2769
-#EXTINF:-1, and  PICTURES HD
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",& PICTURES HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1388
-#EXTINF:-1,B4U MOVIE
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",B4U MOVIE
 http://tv.univisionlive.net:25461/bashir/bashir@98/1369
-#EXTINF:-1,B4U KADAK
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",B4U KADAK
 http://tv.univisionlive.net:25461/bashir/bashir@98/1807
-#EXTINF:-1,BFLIX MOVIE
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",BFLIX MOVIE
 http://tv.univisionlive.net:25461/bashir/bashir@98/1370
-#EXTINF:-1,WOW CINEMA
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",MAHA MOVIE
+http://tv.univisionlive.net:25461/bashir/bashir@98/1371
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",WOW CINEMA
 http://tv.univisionlive.net:25461/bashir/bashir@98/1376
-#EXTINF:-1,BOX CINEMA
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",BOX CINEMA
 http://tv.univisionlive.net:25461/bashir/bashir@98/1644
-#EXTINF:-1,GOLDMINE BOLLYWOOD
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",GOLDMINE BOLLYWOOD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1645
-#EXTINF:-1,BOOGLE BOLLYWOOD
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",BOOGLE BOLLYWOOD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1713
-#EXTINF:-1,GOLDMINES
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",GOLDMINES
 http://tv.univisionlive.net:25461/bashir/bashir@98/4490
-#EXTINF:-1,BBO
+#EXTINF:0 tvg-id="ext" group-title=" Hindi Movies",BBO
 http://tv.univisionlive.net:25461/bashir/bashir@98/4640
-#EXTINF:-1,MTV BEATS HD
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi Music",MTV BEATS HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2308
-#EXTINF:-1,MTV INDIA
+#EXTINF:0 tvg-id="MTVIndia.us" group-title="Hindi Music",MTV INDIA
 http://tv.univisionlive.net:25461/bashir/bashir@98/2309
-#EXTINF:-1,9XM
+#EXTINF:0 tvg-id="9XM.in" group-title="Hindi Music",9XM
 http://tv.univisionlive.net:25461/bashir/bashir@98/1358
-#EXTINF:-1,9X JHAKAAS
+#EXTINF:0 tvg-id="9XJalwa.in" group-title="Hindi Music",9X JALWA
+http://tv.univisionlive.net:25461/bashir/bashir@98/1359
+#EXTINF:0 tvg-id="9XJhakaas.in" group-title="Hindi Music",9X JHAKAAS
 http://tv.univisionlive.net:25461/bashir/bashir@98/2344
-#EXTINF:-1,MASTIII
+#EXTINF:0 tvg-id="Mastiii.in" group-title="Hindi Music",MASTIII
 http://tv.univisionlive.net:25461/bashir/bashir@98/1594
-#EXTINF:-1,B4U MUSIC
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="Hindi Music",B4U MUSIC
 http://tv.univisionlive.net:25461/bashir/bashir@98/1375
-#EXTINF:-1,ZOOM
+#EXTINF:0 tvg-id="zoom" group-title="Hindi Music",ZOOM
 http://tv.univisionlive.net:25461/bashir/bashir@98/4488
-#EXTINF:-1,BINDASS
+#EXTINF:0 tvg-id="Bindass.in" group-title="Hindi Music",BINDASS
 http://tv.univisionlive.net:25461/bashir/bashir@98/4489
-#EXTINF:-1,ZING
+#EXTINF:0 tvg-id="Zing.uk" group-title="Hindi Music",ZING
 http://tv.univisionlive.net:25461/bashir/bashir@98/2729
-#EXTINF:-1,E 24
+#EXTINF:0 tvg-id="E24.in" group-title="Hindi Music",E 24
 http://tv.univisionlive.net:25461/bashir/bashir@98/2349
-#EXTINF:-1,MUSIC INDIA
+#EXTINF:0 tvg-id="MusicIndia.uk" group-title="Hindi Music",MUSIC INDIA
 http://tv.univisionlive.net:25461/bashir/bashir@98/1383
-#EXTINF:-1,I LOVE MUSIC
+#EXTINF:0 tvg-id="ext" group-title="Hindi Music",I LOVE MUSIC
 http://tv.univisionlive.net:25461/bashir/bashir@98/1382
-#EXTINF:-1,M TUNES MUSIC
+#EXTINF:0 tvg-id="ext" group-title="Hindi Music",M TUNES MUSIC
 http://tv.univisionlive.net:25461/bashir/bashir@98/1771
-#EXTINF:-1,JHANJAR MUSIC
+#EXTINF:0 tvg-id="ext" group-title="Hindi Music",DILSE MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/1535
+#EXTINF:0 tvg-id="ext" group-title="Hindi Music",SHOWBOX TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1393
+#EXTINF:0 tvg-id="ext" group-title="Hindi Music",JHANJAR MUSIC
 http://tv.univisionlive.net:25461/bashir/bashir@98/1478
-#EXTINF:-1,ZEE CAFE FHD
+#EXTINF:0 tvg-id="9XTashan.in" group-title="Hindi Music",9X TASHAN
+http://tv.univisionlive.net:25461/bashir/bashir@98/4632
+
+#EXTINF:0 tvg-id="ZeeCafe.in" group-title="Entertainment",ZEE CAFE FHD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4168
-#EXTINF:-1,AXN HD
+#EXTINF:0 tvg-id="AXN.it" group-title="Entertainment",AXN HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1806
-#EXTINF:-1,STAR WORLD HD
+#EXTINF:0 tvg-id="StarWorldHD.in" group-title="Entertainment",STAR WORLD HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2728
-#EXTINF:-1,AXS TV NOW 4K
+#EXTINF:0 tvg-id="DubaiOne.net" group-title="Entertainment",DUBAI ONE
+http://tv.univisionlive.net:25461/bashir/bashir@98/2343
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Entertainment",VH1 HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2903
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",2A NETWORK USA
+http://tv.univisionlive.net:25461/bashir/bashir@98/2914
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",AXS TV NOW 4K
 http://tv.univisionlive.net:25461/bashir/bashir@98/2929
-#EXTINF:-1,CHIVETV HD
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",CHIVETV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2943
-#EXTINF:-1,COLORS INFINITY
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",MILITARY HOME LIFE
+http://tv.univisionlive.net:25461/bashir/bashir@98/2973
+#EXTINF:0 tvg-id="ColorsInfinity.in" group-title="Entertainment",COLORS INFINITY
 http://tv.univisionlive.net:25461/bashir/bashir@98/3176
-#EXTINF:-1,T SPORTS
+
+#EXTINF:0 tvg-id="ext" group-title="Sports (Asian)",T SPORTS
 http://tv.univisionlive.net:25461/bashir/bashir@98/1404
-#EXTINF:-1,T SPORTS HD
+#EXTINF:0 tvg-id="ext" group-title="Sports (Asian)",T SPORTS HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2317
-#EXTINF:-1,STAR SPORTS 1 HD
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Sports (Asian)",STAR SPORTS 1 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1551
-#EXTINF:-1,STAR SPORTS 1 HINDI HD
+#EXTINF:0 tvg-id="ext" group-title="Sports (Asian)",STAR SPORTS 1 HINDI HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4496
-#EXTINF:-1,STAR SPORTS 2 HD
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Sports (Asian)",STAR SPORTS 2 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1552
-#EXTINF:-1,STAR SPORTS 3
+#EXTINF:0 tvg-id="StarSports3.in" group-title="Sports (Asian)",STAR SPORTS 3
 http://tv.univisionlive.net:25461/bashir/bashir@98/4495
-#EXTINF:-1,STAR SPORTS SELECT 1 HD
+#EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="Sports (Asian)",STAR SPORTS SELECT 1 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1526
-#EXTINF:-1,STAR SPORTS SELECT 2 HD
+#EXTINF:0 tvg-id="StarSportsSelectHD2.in" group-title="Sports (Asian)",STAR SPORTS SELECT 2 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1550
-#EXTINF:-1,SONY TEN 1 HD
+#EXTINF:0 tvg-id="TenHD.in" group-title="Sports (Asian)",SONY TEN 1 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1528
-#EXTINF:-1,SONY TEN 2 HD
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sports (Asian)",SONY TEN 2 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1548
-#EXTINF:-1,SONY TEN 3 HD
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports (Asian)",SONY TEN 3 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1549
-#EXTINF:-1,SONY SIX HD
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="Sports (Asian)",SONY SIX HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1529
-#EXTINF:-1,WILLOW CRICKET HD
+#EXTINF:0 tvg-id="ext" group-title="Sports (Asian)",ASTRO CRICKET HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/4582
+#EXTINF:0 tvg-id="WillowCricket.us" group-title="Sports (Asian)",WILLOW CRICKET HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1411
-#EXTINF:-1,A SPORTS
+#EXTINF:0 tvg-id="ext" group-title="Sports (Asian)",A SPORTS
 http://tv.univisionlive.net:25461/bashir/bashir@98/2496
-#EXTINF:-1,TEN SPORTS
+#EXTINF:0 tvg-id="TenSports.in" group-title="Sports (Asian)",TEN SPORTS
 http://tv.univisionlive.net:25461/bashir/bashir@98/1553
-#EXTINF:-1,GEO SUPER
+#EXTINF:0 tvg-id="ext" group-title="Sports (Asian)",GEO SUPER
 http://tv.univisionlive.net:25461/bashir/bashir@98/3434
-#EXTINF:-1,DD SPORTS
+#EXTINF:0 tvg-id="ext" group-title="Sports (Asian)",PTV SPORTS
+http://tv.univisionlive.net:25461/bashir/bashir@98/1400
+#EXTINF:0 tvg-id="DDSports.in" group-title="Sports (Asian)",DD SPORTS
 http://tv.univisionlive.net:25461/bashir/bashir@98/1413
-#EXTINF:-1,SUPERSPORT CRICKET
+
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",SUPERSPORT CRICKET
 http://tv.univisionlive.net:25461/bashir/bashir@98/4164
-#EXTINF:-1,SUPERSPORT FOOTBALL
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",SUPERSPORT FOOTBALL
 http://tv.univisionlive.net:25461/bashir/bashir@98/4165
-#EXTINF:-1,SUPERSPORT PREMIER LEAGUE
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",SUPERSPORT PREMIER LEAGUE
 http://tv.univisionlive.net:25461/bashir/bashir@98/4467
-#EXTINF:-1,SUPER SPORTS LALIGA
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",SUPER SPORTS LALIGA
 http://tv.univisionlive.net:25461/bashir/bashir@98/4432
-#EXTINF:-1,SUPERSPORT WWE
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",SUPERSPORT WWE
 http://tv.univisionlive.net:25461/bashir/bashir@98/4566
-#EXTINF:-1,SUPERSPORT GOLF
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",SUPERSPORT GOLF
 http://tv.univisionlive.net:25461/bashir/bashir@98/4567
-#EXTINF:-1,OLYMPIC CHANNEL HD
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",OLYMPIC CHANNEL HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4570
-#EXTINF:-1,LA LIGA FHD
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",LA LIGA FHD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4578
-#EXTINF:-1,SKY SPORTS FOOTBALL
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Sports (Worldwide)",SKY SPORTS CRICKET
+http://tv.univisionlive.net:25461/bashir/bashir@98/2731
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Sports (Worldwide)",SKY SPORTS FOOTBALL
 http://tv.univisionlive.net:25461/bashir/bashir@98/4484
-#EXTINF:-1,BEIN SPORTS 1 HD
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sports (Worldwide)",BEIN SPORTS 1 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2310
-#EXTINF:-1,BEIN SPORTS 3 HD
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sports (Worldwide)",BEIN SPORTS 2 HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2312
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sports (Worldwide)",BEIN SPORTS 3 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2334
-#EXTINF:-1,BEIN SPORTS 4 HD
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sports (Worldwide)",BEIN SPORTS 4 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2335
-#EXTINF:-1,BEIN SPORTS PREMIUM 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",BEIN SPORTS PREMIUM 1 FHD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4575
-#EXTINF:-1,BEIN SPORTS PREMIUM 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",BEIN SPORTS PREMIUM 2 FHD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4576
-#EXTINF:-1,BEIN SPORT MAX 4
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Sports (Worldwide)",BEIN SPORT MAX 4
 http://tv.univisionlive.net:25461/bashir/bashir@98/3389
-#EXTINF:-1,BT SPORTS 1 UK
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",BT SPORTS 1 UK
 http://tv.univisionlive.net:25461/bashir/bashir@98/2314
-#EXTINF:-1,BT SPORTS 2 UK
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",BT SPORTS 2 UK
 http://tv.univisionlive.net:25461/bashir/bashir@98/4572
-#EXTINF:-1,AD SPORTS 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",BT SPORTS 3 UK
+http://tv.univisionlive.net:25461/bashir/bashir@98/4573
+#EXTINF:0 tvg-id="ADSports1.net" group-title="Sports (Worldwide)",AD SPORTS 1 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2342
-#EXTINF:-1,AD SPORTS 2 HD
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Sports (Worldwide)",AD SPORTS 2 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2746
-#EXTINF:-1,TENNIS CHANNEL
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Sports (Worldwide)",TENNIS CHANNEL
 http://tv.univisionlive.net:25461/bashir/bashir@98/1572
-#EXTINF:-1,FOX SPORTS
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Sports (Worldwide)",FOX SPORTS
 http://tv.univisionlive.net:25461/bashir/bashir@98/1620
-#EXTINF:-1,FOX SPORTS 2
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Sports (Worldwide)",FOX SPORTS 2
 http://tv.univisionlive.net:25461/bashir/bashir@98/1629
-#EXTINF:-1,ESPN
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Sports (Worldwide)",ESPN
 http://tv.univisionlive.net:25461/bashir/bashir@98/1793
-#EXTINF:-1,RED BULL TV
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",RED BULL TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2748
-#EXTINF:-1,WWE NETWORK HD
+#EXTINF:0 tvg-id="WWE.ca" group-title="Sports (Worldwide)",WWE NETWORK HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2764
-#EXTINF:-1,AD SPORTS 3 HD
+#EXTINF:0 tvg-id="ADSports3.net" group-title="Sports (Worldwide)",AD SPORTS 3 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2893
-#EXTINF:-1,BEIN SPORTS EXTRA
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",BEIN SPORTS EXTRA
 http://tv.univisionlive.net:25461/bashir/bashir@98/2895
-#EXTINF:-1,FIGHT NETWORK HD
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",ESTV HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2952
+#EXTINF:0 tvg-id="FightNetwork.ca" group-title="Sports (Worldwide)",FIGHT NETWORK HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2954
-#EXTINF:-1,SUPERSPORT TENNIS
+#EXTINF:0 tvg-id="ext" group-title="Sports (Worldwide)",SUPERSPORT TENNIS
 http://tv.univisionlive.net:25461/bashir/bashir@98/4639
-#EXTINF:-1,NICK HINDI
+
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",NICK HINDI
 http://tv.univisionlive.net:25461/bashir/bashir@98/4462
-#EXTINF:-1,NICK SONIC
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",NICK SONIC
 http://tv.univisionlive.net:25461/bashir/bashir@98/4571
-#EXTINF:-1,CARTOON NETWORK HINDI
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Kids (Children's)",NICKELODEON
+http://tv.univisionlive.net:25461/bashir/bashir@98/1420
+#EXTINF:0 tvg-id="CartoonNetworkHindi.qa" group-title="Kids (Children's)",CARTOON NETWORK HINDI
 http://tv.univisionlive.net:25461/bashir/bashir@98/1534
-#EXTINF:-1,CARTOON NETWORK HD
+#EXTINF:0 tvg-id="cartoon" group-title="Kids (Children's)",CARTOON NETWORK HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1418
-#EXTINF:-1,BANGLA KIDS
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",BANGLA KIDS
 http://tv.univisionlive.net:25461/bashir/bashir@98/3439
-#EXTINF:-1,HUNGAMA TV
+#EXTINF:0 tvg-id="HungamaTV.in" group-title="Kids (Children's)",HUNGAMA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/4240
-#EXTINF:-1,SONY YAY!
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",POGO INDIA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3355
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",SONY YAY!
 http://tv.univisionlive.net:25461/bashir/bashir@98/3357
-#EXTINF:-1,DISCOVERY KIDS
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Kids (Children's)",DISCOVERY KIDS
 http://tv.univisionlive.net:25461/bashir/bashir@98/1826
-#EXTINF:-1,DISNEY JUNIOR
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Kids (Children's)",DISNEY JUNIOR
 http://tv.univisionlive.net:25461/bashir/bashir@98/1419
-#EXTINF:-1,DISNEY CHANNEL HINDI
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",DISNEY CHANNEL HINDI
 http://tv.univisionlive.net:25461/bashir/bashir@98/3360
-#EXTINF:-1,PBS KIDS
+#EXTINF:0 tvg-id="disney" group-title="Kids (Children's)",DISNEY CHANNEL
+http://tv.univisionlive.net:25461/bashir/bashir@98/1774
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",GUBBARE KIDS HINDI
+http://tv.univisionlive.net:25461/bashir/bashir@98/2750
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",PBS KIDS
 http://tv.univisionlive.net:25461/bashir/bashir@98/1417
-#EXTINF:-1,KARTOON CIRCUS
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",KARTOON CIRCUS
 http://tv.univisionlive.net:25461/bashir/bashir@98/1421
-#EXTINF:-1,MARVEL HQ TV
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",MARVEL HQ TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1716
-#EXTINF:-1,SUPERTOON TV
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",SUPERTOON TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1523
-#EXTINF:-1,COCORO TV
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",ABC KIDS
+http://tv.univisionlive.net:25461/bashir/bashir@98/1586
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",COCORO TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1604
-#EXTINF:-1,NICK JR
+#EXTINF:0 tvg-id="nick-jr" group-title="Kids (Children's)",NICK JR
 http://tv.univisionlive.net:25461/bashir/bashir@98/1670
-#EXTINF:-1,MANORANJAN GRAND TV
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",MANORANJAN GRAND TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1685
-#EXTINF:-1,HAPPY JUNIOR TV
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",HAPPY JUNIOR TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1686
-#EXTINF:-1,HAPPY TV
+#EXTINF:0 tvg-id="happytv.sr" group-title="Kids (Children's)",HAPPY TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1715
-#EXTINF:-1,KABILLION TV
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",KABILLION TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1768
-#EXTINF:-1,EBS KIDS
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Kids (Children's)",BABY FIRST
+http://tv.univisionlive.net:25461/bashir/bashir@98/2658
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",EBS KIDS
 http://tv.univisionlive.net:25461/bashir/bashir@98/2749
-#EXTINF:-1,ANIPLUS KIDS
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",ANIPLUS KIDS
 http://tv.univisionlive.net:25461/bashir/bashir@98/2751
-#EXTINF:-1,KARTOON CIRCUS TV
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",ANIMAX HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2752
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",KARTOON CIRCUS TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2965
-#EXTINF:-1,EBS 2 KIDS
+#EXTINF:0 tvg-id="BangBang.al" group-title="Kids (Children's)",BANG BANG
+http://tv.univisionlive.net:25461/bashir/bashir@98/3106
+#EXTINF:0 tvg-id="ext" group-title="Kids (Children's)",EBS 2 KIDS
 http://tv.univisionlive.net:25461/bashir/bashir@98/3425
-#EXTINF:-1,DISCOVERY BANGLA
+
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",DISCOVERY BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/4485
-#EXTINF:-1,DISCOVERY ENGLISH
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",DISCOVERY ENGLISH
 http://tv.univisionlive.net:25461/bashir/bashir@98/3343
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:0 tvg-id="discov_sci" group-title="Infotainment",DISCOVERY SCIENCE
 http://tv.univisionlive.net:25461/bashir/bashir@98/1776
-#EXTINF:-1,DISCOVERY ASIA
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",DISCOVERY ASIA
 http://tv.univisionlive.net:25461/bashir/bashir@98/2299
-#EXTINF:-1,NAT GEO BANGLA
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",NAT GEO BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/4486
-#EXTINF:-1,NAT GEO WILD
+#EXTINF:0 tvg-id="natgeowild" group-title="Infotainment",NAT GEO WILD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2763
-#EXTINF:-1,TRAVELXP BANGLA
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",TRAVELXP BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/4463
-#EXTINF:-1,TRAVEL XP HD
+#EXTINF:0 tvg-id="TravelXP.in" group-title="Infotainment",TRAVEL XP HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/3112
-#EXTINF:-1,SONY BBC EARTH
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",SONY BBC EARTH
 http://tv.univisionlive.net:25461/bashir/bashir@98/2307
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:0 tvg-id="animal_rus" group-title="Infotainment",ANIMAL PLANET
 http://tv.univisionlive.net:25461/bashir/bashir@98/1425
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1428
-#EXTINF:-1,HISTORY HD
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Infotainment",HISTORY HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1511
-#EXTINF:-1,TLC HD
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",WEATHER VIRHEL TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1513
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Infotainment",TLC HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1775
-#EXTINF:-1,AKC TV
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",NASA TV MEDIA
+http://tv.univisionlive.net:25461/bashir/bashir@98/2500
+#EXTINF:0 tvg-id="LoveNature.uk" group-title="Infotainment",LOVE NATURE
+http://tv.univisionlive.net:25461/bashir/bashir@98/2501
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",AKC TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2807
-#EXTINF:-1,FOX LIFE
+#EXTINF:0 tvg-id="fox-life" group-title="Infotainment",FOX LIFE
 http://tv.univisionlive.net:25461/bashir/bashir@98/2957
-#EXTINF:-1,NASA TV PUBLIC
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",RFH HARZ HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3007
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Space Channel
+http://tv.univisionlive.net:25461/bashir/bashir@98/3034
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Switch TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3039
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",The Grapevine TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3046
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Viasat Nature 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/3066
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",X ZONE HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3073
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",NASA TV PUBLIC
 http://tv.univisionlive.net:25461/bashir/bashir@98/3431
-#EXTINF:-1,HISTORY TV 18 HD
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",HISTORY TV 18 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4241
-#EXTINF:-1,STAR MOVIES HD
+
+#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="English Movies",STAR MOVIES HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1673
-#EXTINF:-1,STAR MOVIES SELECT HD
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="English Movies",STAR MOVIES SELECT HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4238
-#EXTINF:-1,MOVIES NOW HD
+#EXTINF:0 tvg-id="MoviesNowHD.in" group-title="English Movies",MOVIES NOW HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/3356
-#EXTINF:-1,HBO ASIA
+#EXTINF:0 tvg-id="ext" group-title="English Movies",HBO ASIA
 http://tv.univisionlive.net:25461/bashir/bashir@98/1434
-#EXTINF:-1,LOTUS MACAU
+#EXTINF:0 tvg-id="ext" group-title="English Movies",LOTUS MACAU
 http://tv.univisionlive.net:25461/bashir/bashir@98/1431
-#EXTINF:-1, and FLIX 4K
+#EXTINF:0 tvg-id="ext" group-title="English Movies",&FLIX 4K
 http://tv.univisionlive.net:25461/bashir/bashir@98/1433
-#EXTINF:-1,SONY PIX
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movies",SONY PIX
 http://tv.univisionlive.net:25461/bashir/bashir@98/1450
-#EXTINF:-1,SONY MOVIES HD
+#EXTINF:0 tvg-id="ext" group-title="English Movies",SONY MOVIES HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1541
-#EXTINF:-1,SYFY 4K
+#EXTINF:0 tvg-id="ext" group-title="English Movies",SYFY 4K
 http://tv.univisionlive.net:25461/bashir/bashir@98/2766
-#EXTINF:-1,CINEMAX MOVIES
+#EXTINF:0 tvg-id="ext" group-title="English Movies",CINEMAX MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/1718
-#EXTINF:-1,GROOVY MOVIES
+#EXTINF:0 tvg-id="ext" group-title="English Movies",GROOVY MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/1720
-#EXTINF:-1,CINEMUNDO MOVIE
+#EXTINF:0 tvg-id="ext" group-title="English Movies",CINEMUNDO MOVIE
 http://tv.univisionlive.net:25461/bashir/bashir@98/1769
-#EXTINF:-1,MONSTE MOVIE TV
+#EXTINF:0 tvg-id="ext" group-title="English Movies",MONSTE MOVIE TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1436
-#EXTINF:-1,WOW TV
+#EXTINF:0 tvg-id="WOWTV.us" group-title="English Movies",WOW TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1437
-#EXTINF:-1,MOVIES PHERE
+#EXTINF:0 tvg-id="ext" group-title="English Movies",MOVIES PHERE
 http://tv.univisionlive.net:25461/bashir/bashir@98/1438
-#EXTINF:-1,MOVIE TV 1
+#EXTINF:0 tvg-id="ext" group-title="English Movies",MOVIE TV 1
 http://tv.univisionlive.net:25461/bashir/bashir@98/1445
-#EXTINF:-1,XUMO TV
+#EXTINF:0 tvg-id="ext" group-title="English Movies",GRAVITAS MOVIES
+http://tv.univisionlive.net:25461/bashir/bashir@98/1446
+#EXTINF:0 tvg-id="ext" group-title="English Movies",XUMO TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1453
-#EXTINF:-1,RAKUTEN ACTION
+#EXTINF:0 tvg-id="ext" group-title="English Movies",RAKUTEN ACTION
 http://tv.univisionlive.net:25461/bashir/bashir@98/1545
-#EXTINF:-1,FOX MOVIES
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="English Movies",FOX MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/1555
-#EXTINF:-1,ACTION MAX
+#EXTINF:0 tvg-id="ext" group-title="English Movies",ACTION MAX
 http://tv.univisionlive.net:25461/bashir/bashir@98/1570
-#EXTINF:-1,HORROR MACHINE
+#EXTINF:0 tvg-id="ext" group-title="English Movies",HORROR MACHINE
 http://tv.univisionlive.net:25461/bashir/bashir@98/1596
-#EXTINF:-1,HALLMARK MOVIES
+#EXTINF:0 tvg-id="Hallmark.us" group-title="English Movies",HALLMARK MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/1615
-#EXTINF:-1,FILMRISE ACTION
+#EXTINF:0 tvg-id="ext" group-title="English Movies",FILMRISE ACTION
 http://tv.univisionlive.net:25461/bashir/bashir@98/1619
-#EXTINF:-1,ASYLUM MOVIES
+#EXTINF:0 tvg-id="ext" group-title="English Movies",ASYLUM MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/1652
-#EXTINF:-1,CRACKLE MOVIE
+#EXTINF:0 tvg-id="ext" group-title="English Movies",CRACKLE MOVIE
 http://tv.univisionlive.net:25461/bashir/bashir@98/1666
-#EXTINF:-1,AMC RUSH MOVIES
+#EXTINF:0 tvg-id="ext" group-title="English Movies",AMC RUSH MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/1667
-#EXTINF:-1,KURIAKOS CINE MOVIES
+#EXTINF:0 tvg-id="ext" group-title="English Movies",KURIAKOS CINE MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/1710
-#EXTINF:-1,FRIGHTFLIX MOVIE
+#EXTINF:0 tvg-id="ext" group-title="English Movies",FRIGHTFLIX MOVIE
 http://tv.univisionlive.net:25461/bashir/bashir@98/1766
-#EXTINF:-1,WILD WEST MOVIES
+#EXTINF:0 tvg-id="ext" group-title="English Movies",WILD WEST MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/2817
-#EXTINF:-1,THRILL MOVIES
+#EXTINF:0 tvg-id="ext" group-title="English Movies",THRILL MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/2911
-#EXTINF:-1,TNT
+#EXTINF:0 tvg-id="ext" group-title="English Movies",COWBOY THEATER HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2946
+#EXTINF:0 tvg-id="ext" group-title="English Movies",DIMENSIONS FILMS
+http://tv.univisionlive.net:25461/bashir/bashir@98/2950
+#EXTINF:0 tvg-id="ext" group-title="English Movies",READY SET ACTION
+http://tv.univisionlive.net:25461/bashir/bashir@98/3001
+#EXTINF:0 tvg-id="tnt" group-title="English Movies",TNT
 http://tv.univisionlive.net:25461/bashir/bashir@98/3177
-#EXTINF:-1,XPLORE MOVIES HD
+#EXTINF:0 tvg-id="ext" group-title="English Movies",REDTV HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3004
+#EXTINF:0 tvg-id="ext" group-title="English Movies",XPLORE MOVIES HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4153
-#EXTINF:-1,CINECANAL HD
+#EXTINF:0 tvg-id="OSNMovies.net" group-title="English Movies",OSN MOVIES HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/4427
+#EXTINF:0 tvg-id="HallmarkChannelHD.us" group-title="English Movies",Hallmark Channel HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/4656
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="English Movies",CINECANAL HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4657
-#EXTINF:-1,Chaplin (1992)
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Animals on the Loose: A You vs. Wild Interactive Movie (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2272.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Army of the Dead (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2273.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Contagion (2011)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2282.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Dark Web: Cicada 3301 (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2284.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Free Guy (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2285.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Godzilla vs. Kong (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2286.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Grave of the Fireflies (1988)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2287.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Harry Potter and the Goblet of Fire (2005)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2288.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Justice Society: World War II (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2291.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Mortal Kombat (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2292.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Obsession (2019)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2301.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2302.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Raya and the Last Dragon (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2305.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Blood Red Sky (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2785.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Don't Breathe 2 (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2786.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",The Conjuring: The Devil Made Me Do It (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2787.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Voyagers (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2788.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Nomadland (2021)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2789.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",The Devil's Own (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2790.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",A Life Less Ordinary (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2791.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Alien Resurrection (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2792.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Amistad (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2793.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Anaconda (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2794.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Anastasia (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2795.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",As Good as It Gets (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2796.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Austin Powers: International Man of Mystery (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2797.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Batman & Robin (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2798.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Boogie Nights (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2799.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Children of Heaven (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2800.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",City of Industry (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2801.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Con Air (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2802.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Conspiracy Theory (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2803.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Contact (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2804.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Donnie Brasco (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2821.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Event Horizon (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2822.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",G.I. Jane (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2823.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Gattaca (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2824.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",George of the Jungle (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2825.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Good Will Hunting (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2826.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Inventing the Abbotts (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2827.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Jackie Brown (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2828.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",The Lost World: Jurassic Park (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2829.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",L.A. Confidential (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2830.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Liar Liar (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2831.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Lolita (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2832.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Lost Highway (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2833.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Men in Black (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2834.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Money Talks (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2835.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Mr. Nice Guy (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2836.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Orgazmo (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2837.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Out to Sea (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2838.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Princess Mononoke (1997)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2839.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",2 Days in the Valley (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2840.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Barb Wire (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2841.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Beautiful Girls (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2842.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Before and After (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2843.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Blood and Wine (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2844.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Bottle Rocket (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2845.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Bound (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2846.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Breaking the Waves (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2847.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Broken Arrow (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2850.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Bulletproof (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2851.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Celtic Pride (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2852.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",City Hall (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2853.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Crash (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2854.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Down Periscope (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2856.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Eraser (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2857.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Escape from L.A. (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2858.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Executive Decision (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2859.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Extreme Measures (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2860.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Eye for an Eye (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2861.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Fargo (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2862.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Flipper (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2863.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",The Frighteners (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2864.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",From Dusk Till Dawn (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2865.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Gabbeh (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2866.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Grace of My Heart (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2867.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Hamlet (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2868.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Happy Gilmore (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2869.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Independence Day (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2870.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Jerry Maguire (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2872.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Last Man Standing (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2873.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Mars Attacks! (1996)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2874.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",28 Days Later (2002)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2875.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",A Nightmare on Elm Street (2010)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2876.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Freddy vs. Jason (2003)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/2877.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",John Wick (2014)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/3183.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",John Wick: Chapter 2 (2017)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/3184.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",John Wick: Chapter 3 - Parabellum (2019)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/3185.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Big Hero 6 (2014)
+http://tv.univisionlive.net:25461/movie/bashir/bashir@98/3203.mp4
+#EXTINF:0 tvg-id="avi" group-title="English Movies",Chaplin (1992)
 http://tv.univisionlive.net:25461/movie/bashir/bashir@98/3778.mp4
-#EXTINF:-1,BELARUS 24 HD
+
+#EXTINF:0 tvg-id="fox-crime" group-title="Movies (Worldwide)",FOX CRIME
+http://tv.univisionlive.net:25461/bashir/bashir@98/1442
+#EXTINF:0 tvg-id="amedia-hit" group-title="Movies (Worldwide)",AMEDIA HIT
+http://tv.univisionlive.net:25461/bashir/bashir@98/2926
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",BELARUS 24 HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2932
-#EXTINF:-1,BELLA ASUNCION TV
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",BELLA ASUNCION TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2933
-#EXTINF:-1,MOVIE KINGDOM TV
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",BLACK TV HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2936
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",DIJLAH TARAB
+http://tv.univisionlive.net:25461/bashir/bashir@98/2948
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",MOVIE KINGDOM TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2978
-#EXTINF:-1,92 NEWS TV
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",MY THOS
+http://tv.univisionlive.net:25461/bashir/bashir@98/2981
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",Prime Time Drama
+http://tv.univisionlive.net:25461/bashir/bashir@98/2997
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",PUNKTum Fernsehen
+http://tv.univisionlive.net:25461/bashir/bashir@98/3000
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",RED TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3002
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",RTSH Film
+http://tv.univisionlive.net:25461/bashir/bashir@98/3025
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",Spydar
+http://tv.univisionlive.net:25461/bashir/bashir@98/3035
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",TV1000 Action 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/3050
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",TV1000 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/3051
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",TV1000 Kino 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/3052
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",VIP MEGAHIT 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/3068
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",VIP PREMIERE 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/3069
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",VIP Serial 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/3070
+#EXTINF:0 tvg-id="home" group-title="Movies (Worldwide)",Домашний HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3074
+#EXTINF:0 tvg-id="mir" group-title="Movies (Worldwide)",Мир TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3078
+#EXTINF:0 tvg-id="rentv" group-title="Movies (Worldwide)",Рен ТВ HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3082
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",Россия Культура HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3085
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",СТС 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/3087
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",СТС Love HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3088
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",OEHNKC KNHO
+http://tv.univisionlive.net:25461/bashir/bashir@98/3089
+#EXTINF:0 tvg-id="ext" group-title="Movies (Worldwide)",True Chinese more
+http://tv.univisionlive.net:25461/bashir/bashir@98/3098
+
+#EXTINF:0 tvg-id="ext" group-title="Pakistan (PK)",92 NEWS TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1457
-#EXTINF:-1,PTV WORLD
+#EXTINF:0 tvg-id="ext" group-title="Pakistan (PK)",PTV WORLD
 http://tv.univisionlive.net:25461/bashir/bashir@98/1522
-#EXTINF:-1,ARY DIGITAL HD
+#EXTINF:0 tvg-id="ext" group-title="Pakistan (PK)",ARY DIGITAL HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2756
-#EXTINF:-1,HUM TV HD
+#EXTINF:0 tvg-id="ext" group-title="Pakistan (PK)",HUM TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/4246
-#EXTINF:-1,HUM MASALA
+#EXTINF:0 tvg-id="HUMMasala.uk" group-title="Pakistan (PK)",HUM MASALA
 http://tv.univisionlive.net:25461/bashir/bashir@98/2759
-#EXTINF:-1,FAZAL TELEVISION
+#EXTINF:0 tvg-id="ext" group-title="Pakistan (PK)",MADANI CHANNEL URDU
+http://tv.univisionlive.net:25461/bashir/bashir@98/1752
+#EXTINF:0 tvg-id="ext" group-title="Pakistan (PK)",FAZAL TELEVISION
 http://tv.univisionlive.net:25461/bashir/bashir@98/2999
-#EXTINF:-1,MAKKAH LIVE TV
+
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",MAKKAH LIVE TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1458
-#EXTINF:-1,MADINA LIVE
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",MADINA LIVE
 http://tv.univisionlive.net:25461/bashir/bashir@98/1459
-#EXTINF:-1,ATN ISLAMIC TV
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",ATN ISLAMIC TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1460
-#EXTINF:-1,ZINDAGI TV
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",ZINDAGI TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1637
-#EXTINF:-1,MADANI BANGLA TV
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",MADANI BANGLA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1698
-#EXTINF:-1,ASTIST CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",ASTIST CHANNEL
 http://tv.univisionlive.net:25461/bashir/bashir@98/1708
-#EXTINF:-1,PEACE TV BANGLA
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",PEACE TV BANGLA
 http://tv.univisionlive.net:25461/bashir/bashir@98/1712
-#EXTINF:-1,DEEN TV
+#EXTINF:0 tvg-id="DeenTV.uk" group-title="Islamic Channel",DEEN TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1748
-#EXTINF:-1,CHANNEL S US
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",HAJJ LIVE TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1789
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",CHANNEL S US
 http://tv.univisionlive.net:25461/bashir/bashir@98/1791
-#EXTINF:-1,IQRA ISLAMIC BANGLA TV
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",IQRA ISLAMIC BANGLA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2525
-#EXTINF:-1,CHANNEL WIN
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",MTA INTERNATIONAL
+http://tv.univisionlive.net:25461/bashir/bashir@98/2809
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",ASHRAFI CHANNEL
+http://tv.univisionlive.net:25461/bashir/bashir@98/3135
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",CHANNEL WIN
 http://tv.univisionlive.net:25461/bashir/bashir@98/3149
-#EXTINF:-1,AZON TV
+#EXTINF:0 tvg-id="IslamChannel.uk" group-title="Islamic Channel",ISLAM CHANNEL
+http://tv.univisionlive.net:25461/bashir/bashir@98/3150
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",DUA TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3152
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",AZON TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/4151
-#EXTINF:-1,I TV
+#EXTINF:0 tvg-id="ext" group-title="Islamic Channel",I TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/4353
-#EXTINF:-1,1MUS.COM
+
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",1MUS.COM
 http://tv.univisionlive.net:25461/bashir/bashir@98/1469
-#EXTINF:-1,M TV BIGGEST
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",M TV BIGGEST
 http://tv.univisionlive.net:25461/bashir/bashir@98/1546
-#EXTINF:-1,CAROLINA MUSIC
+#EXTINF:0 tvg-id="vevo" group-title="Music (Worldwide)",VEVO MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/1613
+#EXTINF:0 tvg-id="TheBox.uk" group-title="Music (Worldwide)",THE BOX UK
+http://tv.univisionlive.net:25461/bashir/bashir@98/1628
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",THE BOX MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/1650
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",THE EDGE
+http://tv.univisionlive.net:25461/bashir/bashir@98/1651
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",CAROLINA MUSIC
 http://tv.univisionlive.net:25461/bashir/bashir@98/1689
-#EXTINF:-1,MAGIC TV
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",MTV BIGGEST POP
+http://tv.univisionlive.net:25461/bashir/bashir@98/2346
+#EXTINF:0 tvg-id="Magic.uk" group-title="Music (Worldwide)",MAGIC TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2818
-#EXTINF:-1,FASHION TV
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",MOOZ DANCE MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/2819
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",BATAZA MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/2881
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",1 MUSIC CHANNEL (HUNGARY)
+http://tv.univisionlive.net:25461/bashir/bashir@98/2898
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",VIVA (RUSSIA (24/7)
+http://tv.univisionlive.net:25461/bashir/bashir@98/2900
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",VEVO POP - ENGLISH 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/2905
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",XITE MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/2906
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",A2I MUSIC TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3189
+#EXTINF:0 tvg-id="ext" group-title="Music (Worldwide)",RADIOM2O MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/4349
+
+#EXTINF:0 tvg-id="fashion" group-title="Fashion & LifeStyle",FASHION TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/1470
-#EXTINF:-1,FASHION TV MAGAZINE
+#EXTINF:0 tvg-id="ext" group-title="Fashion & LifeStyle",FASHION TV MAGAZINE
 http://tv.univisionlive.net:25461/bashir/bashir@98/1471
-#EXTINF:-1,STEELBIRD MUSIC
+#EXTINF:0 tvg-id="ext" group-title="Fashion & LifeStyle",FASHION TV MUMBAI
+http://tv.univisionlive.net:25461/bashir/bashir@98/1618
+#EXTINF:0 tvg-id="fashion" group-title="Fashion & LifeStyle",FASHION TV HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/1659
+#EXTINF:0 tvg-id="ext" group-title="Fashion & LifeStyle",INDIAN FASHION TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1668
+#EXTINF:0 tvg-id="ext" group-title="Fashion & LifeStyle",LIFESTYLE TV HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2971
+
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",FILAMCHI TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1476
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",STEELBIRD MUSIC
 http://tv.univisionlive.net:25461/bashir/bashir@98/1643
-#EXTINF:-1,UTHRADAM MOVIES
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",MANARANJON MOVIES
+http://tv.univisionlive.net:25461/bashir/bashir@98/1692
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",UTHRADAM MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/1728
-#EXTINF:-1,YUPP THIRAI
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",KEN TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1729
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",NEE CINEMA
+http://tv.univisionlive.net:25461/bashir/bashir@98/1730
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",YUPP THIRAI
 http://tv.univisionlive.net:25461/bashir/bashir@98/1731
-#EXTINF:-1,KCV MOVIES
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",TAMIL TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/1738
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",KCV MOVIES
 http://tv.univisionlive.net:25461/bashir/bashir@98/2514
-#EXTINF:-1,KAPPA TV
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",DHAMAAL MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/2812
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",KAPPA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2814
-#EXTINF:-1,NEWS 18 LOKMAT
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",ONE YUVA MOVIE
+http://tv.univisionlive.net:25461/bashir/bashir@98/2816
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",NEWS 18 LOKMAT
 http://tv.univisionlive.net:25461/bashir/bashir@98/2985
-#EXTINF:-1,B4U BHOJPURI
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",B4U BHOJPURI
 http://tv.univisionlive.net:25461/bashir/bashir@98/3107
-#EXTINF:-1,CAPTAIN TV
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",CAPTAIN TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/3114
-#EXTINF:-1,TAAZA TV
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",MARUTAM TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3115
+#EXTINF:0 tvg-id="TV9Kannada.in" group-title="Indian (Other Regional) ",TV9 KANNADA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3123
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",TAAZA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/3124
-#EXTINF:-1,FATEH TV LIVE
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",ETV KANNADA NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/3125
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",VTV GAJARATI
+http://tv.univisionlive.net:25461/bashir/bashir@98/3126
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",NAMBIKKAI TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3127
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",SUDARSHAN TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3128
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",INH NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/3129
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",SHUBHSANDESH TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3131
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",WATCH SVBC 2
+http://tv.univisionlive.net:25461/bashir/bashir@98/3132
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",TV 9 GAJARAT
+http://tv.univisionlive.net:25461/bashir/bashir@98/3134
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",ViCTERS TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3136
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",ETV UTTAR PRADESH
+http://tv.univisionlive.net:25461/bashir/bashir@98/3137
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",NEWS 18 KERALA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3138
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",BLOKSHAHI NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/3139
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",NK TV 24x7
+http://tv.univisionlive.net:25461/bashir/bashir@98/3140
+#EXTINF:0 tvg-id="LOVEWORLD-TV.uk" group-title="Indian (Other Regional) ",LOVEWORLD TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3141
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",THANTHI TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3143
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",ABP GANGA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3145
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",MAHARISHI CHANNEL 6
+http://tv.univisionlive.net:25461/bashir/bashir@98/3146
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",ZEE SALAAM
+http://tv.univisionlive.net:25461/bashir/bashir@98/3147
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",ANGEL TV EUROPE
+http://tv.univisionlive.net:25461/bashir/bashir@98/3151
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",WATCH ANGEL TV ARABIA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3153
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",ANGEL TV AMERICA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3154
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",JIGYASA TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3156
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",MH ONE SHRADDHA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3157
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",SHEKINDH TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3158
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",MAHARISHI CHANNEL 3
+http://tv.univisionlive.net:25461/bashir/bashir@98/3161
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",MOON TV MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/3162
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",MAHARISHI CHANNEL 1
+http://tv.univisionlive.net:25461/bashir/bashir@98/3164
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",ABP News Punjabi
+http://tv.univisionlive.net:25461/bashir/bashir@98/3165
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",VASANTH TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3167
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",WATCH GSTV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3169
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",DY365 ASSAMESE
+http://tv.univisionlive.net:25461/bashir/bashir@98/3170
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",NAMMA TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3171
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",FATEH TV LIVE
 http://tv.univisionlive.net:25461/bashir/bashir@98/3172
-#EXTINF:-1,SANA PLUS MUSIC
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",TAMIL VISION
+http://tv.univisionlive.net:25461/bashir/bashir@98/3188
+#EXTINF:0 tvg-id="AmritaTv.in" group-title="Indian (Other Regional) ",AMRITA TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3191
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",MK TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3762
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",MARUTAM MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/3894
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",SANGEET BHOJPURI MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/4128
+#EXTINF:0 tvg-id="KasthuriTV.in" group-title="Indian (Other Regional) ",KASTHURI TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/4149
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",EET TV HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/4152
+#EXTINF:0 tvg-id="ext" group-title="Indian (Other Regional) ",SANA PLUS MUSIC
 http://tv.univisionlive.net:25461/bashir/bashir@98/4355
-#EXTINF:-1,CAROLINA TV HD
+
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",WANASAH TV (ARABIC)
+http://tv.univisionlive.net:25461/bashir/bashir@98/2899
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",VISION MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/2901
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",VIDEO TOUR CHANNEL
+http://tv.univisionlive.net:25461/bashir/bashir@98/2902
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",VEVO POP- EUROPE 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/2904
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",VEVO MUSIC (LATINO)
+http://tv.univisionlive.net:25461/bashir/bashir@98/2907
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",VEVO HIP HOP 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/2908
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",VEVO 80s FHD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2909
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",ALB MUSIC 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/2923
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",ALBKANALE MUSIC TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2925
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",BAJO CERO TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2930
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",BANOVINA TV MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/2931
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",CAROLINA TV HD
 http://tv.univisionlive.net:25461/bashir/bashir@98/2940
-#EXTINF:-1,MOLA TV
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",CONTACT VISION TV HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2944
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",Fun Radio HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2958
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",HD 365
+http://tv.univisionlive.net:25461/bashir/bashir@98/2961
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",JESUS SHELANU MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/2964
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",MOLA TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2975
-#EXTINF:-1,Hewad TV
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",MTC MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/2979
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",RS NISVILLE TV RS
+http://tv.univisionlive.net:25461/bashir/bashir@98/2987
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",OF TV OFFENBACH
+http://tv.univisionlive.net:25461/bashir/bashir@98/2988
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",OK Dessau
+http://tv.univisionlive.net:25461/bashir/bashir@98/2989
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",OK Magdeburg
+http://tv.univisionlive.net:25461/bashir/bashir@98/2990
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",OK Mainz
+http://tv.univisionlive.net:25461/bashir/bashir@98/2991
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",OK Wernigerode
+http://tv.univisionlive.net:25461/bashir/bashir@98/2992
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",RTSH 3
+http://tv.univisionlive.net:25461/bashir/bashir@98/3023
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",RTV Ilirida
+http://tv.univisionlive.net:25461/bashir/bashir@98/3028
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",TopEstrada TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3049
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",TV S1
+http://tv.univisionlive.net:25461/bashir/bashir@98/3061
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",TV União 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/3062
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",WATAN-E-MAA
+http://tv.univisionlive.net:25461/bashir/bashir@98/3071
+#EXTINF:0 tvg-id="muz-tv" group-title="Music (International)",МузТВ
+http://tv.univisionlive.net:25461/bashir/bashir@98/3079
+#EXTINF:0 tvg-id="ort-hd" group-title="Music (International)",Первый канал HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3081
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",Hewad TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/3099
-#EXTINF:-1,ALB DREAMS TV
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",Kayhan TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3100
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",Pamir TV 4K
+http://tv.univisionlive.net:25461/bashir/bashir@98/3101
+#EXTINF:0 tvg-id="ext" group-title="Music (International)",ERT WORLD MUSIC
+http://tv.univisionlive.net:25461/bashir/bashir@98/3429
+
+#EXTINF:0 tvg-id="ext" group-title="International Channel",5 KAHAN
+http://tv.univisionlive.net:25461/bashir/bashir@98/2915
+#EXTINF:0 tvg-id="ext" group-title="International Channel",A1 TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2916
+#EXTINF:0 tvg-id="ext" group-title="International Channel",ADRIA NET HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2917
+#EXTINF:0 tvg-id="ext" group-title="International Channel",AL-HURRA HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2918
+#EXTINF:0 tvg-id="ext" group-title="International Channel",AL-HURRA IRAQ HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2919
+#EXTINF:0 tvg-id="ext" group-title="International Channel",AL-RASHEED HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2920
+#EXTINF:0 tvg-id="ext" group-title="International Channel",AL-SHARQIYA TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2921
+#EXTINF:0 tvg-id="ext" group-title="International Channel",AL-SHARQIYA NEWS HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2922
+#EXTINF:0 tvg-id="ext" group-title="International Channel",ALB DREAMS TV
 http://tv.univisionlive.net:25461/bashir/bashir@98/2924
-#EXTINF:-1,ATN News (AG)
+#EXTINF:0 tvg-id="ext" group-title="International Channel",ATN EUROPE
+http://tv.univisionlive.net:25461/bashir/bashir@98/2927
+#EXTINF:0 tvg-id="ext" group-title="International Channel",AG AVA ENTERTAINMENT
+http://tv.univisionlive.net:25461/bashir/bashir@98/2928
+#EXTINF:0 tvg-id="ext" group-title="International Channel",CANAL ORBE 21 HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2938
+#EXTINF:0 tvg-id="ext" group-title="International Channel",CEKMEKAY TV HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2942
+#EXTINF:0 tvg-id="ext" group-title="International Channel",CASTADELSOl TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2945
+#EXTINF:0 tvg-id="ext" group-title="International Channel",FIBRACAT TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2953
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Haldensleben TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2960
+#EXTINF:0 tvg-id="KlanPlusHD.al" group-title="International Channel",KLAN PLUS HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2967
+#EXTINF:0 tvg-id="ext" group-title="International Channel",KORCA + TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2968
+#EXTINF:0 tvg-id="ext" group-title="International Channel",KURIRTV HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2970
+#EXTINF:0 tvg-id="ext" group-title="International Channel",MONARCH TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2976
+#EXTINF:0 tvg-id="ext" group-title="International Channel",MUNDO TV HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2980
+#EXTINF:0 tvg-id="ext" group-title="International Channel",PARDESI TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/2994
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Prime Asia TV Canada
+http://tv.univisionlive.net:25461/bashir/bashir@98/2996
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Providence Christian Network
+http://tv.univisionlive.net:25461/bashir/bashir@98/2998
+#EXTINF:0 tvg-id="ext" group-title="International Channel",RHEINMAIN TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3008
+#EXTINF:0 tvg-id="ext" group-title="International Channel",RTSH 1
+http://tv.univisionlive.net:25461/bashir/bashir@98/3021
+#EXTINF:0 tvg-id="ext" group-title="International Channel",RTSH 2
+http://tv.univisionlive.net:25461/bashir/bashir@98/3022
+#EXTINF:0 tvg-id="ext" group-title="International Channel",RTV MIR
+http://tv.univisionlive.net:25461/bashir/bashir@98/3029
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Rudana
+http://tv.univisionlive.net:25461/bashir/bashir@98/3030
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Sandzak TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3031
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Sophia TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3033
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Sylt1 TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3040
+#EXTINF:0 tvg-id="ext" group-title="International Channel",teltOwkanal
+http://tv.univisionlive.net:25461/bashir/bashir@98/3043
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Tempo TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3044
+#EXTINF:0 tvg-id="ext" group-title="International Channel",The Archive
+http://tv.univisionlive.net:25461/bashir/bashir@98/3045
+#EXTINF:0 tvg-id="TideTV.de" group-title="International Channel",Tide TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3047
+#EXTINF:0 tvg-id="ext" group-title="International Channel",TV Brusque
+http://tv.univisionlive.net:25461/bashir/bashir@98/3053
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="International Channel",TV Gazeta
+http://tv.univisionlive.net:25461/bashir/bashir@98/3055
+#EXTINF:0 tvg-id="ext" group-title="International Channel",TV Guará
+http://tv.univisionlive.net:25461/bashir/bashir@98/3056
+#EXTINF:0 tvg-id="ext" group-title="International Channel",TV Marajoara
+http://tv.univisionlive.net:25461/bashir/bashir@98/3058
+#EXTINF:0 tvg-id="ext" group-title="International Channel",TV Max
+http://tv.univisionlive.net:25461/bashir/bashir@98/3059
+#EXTINF:0 tvg-id="ext" group-title="International Channel",TV Pai Eterno
+http://tv.univisionlive.net:25461/bashir/bashir@98/3060
+#EXTINF:0 tvg-id="ext" group-title="International Channel",TV Brazil
+http://tv.univisionlive.net:25461/bashir/bashir@98/3063
+#EXTINF:0 tvg-id="history" group-title="International Channel",Viasat History
+http://tv.univisionlive.net:25461/bashir/bashir@98/3065
+#EXTINF:0 tvg-id="ext" group-title="International Channel",WTV Wettin
+http://tv.univisionlive.net:25461/bashir/bashir@98/3072
+#EXTINF:0 tvg-id="zvezda" group-title="International Channel",Звезда HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3075
+#EXTINF:0 tvg-id="izvestia" group-title="International Channel",Известия HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3076
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Калейдскоп
+http://tv.univisionlive.net:25461/bashir/bashir@98/3077
+#EXTINF:0 tvg-id="rossiya-hd" group-title="International Channel",Россия 1 HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3083
+#EXTINF:0 tvg-id="ext" group-title="International Channel",СПАС HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/3086
+#EXTINF:0 tvg-id="ext" group-title="International Channel",ARIANA AFGHANISTAN INTERNATIONAL TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3091
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Bahar TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3095
+#EXTINF:0 tvg-id="ext" group-title="International Channel",Payam-e-Afghan TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3102
+
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",BETEVE HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2934
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",Bitlis TV News
+http://tv.univisionlive.net:25461/bashir/bashir@98/2935
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",CANAL26 HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2937
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",CANAL PARLAMENTO HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2939
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",CBTV NOW BRAZIL HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2941
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",DIJLAH TV NEWS
+http://tv.univisionlive.net:25461/bashir/bashir@98/2949
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",FILSTALWELLE GOPPINGEN
+http://tv.univisionlive.net:25461/bashir/bashir@98/2955
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",KULTURMD MAGDEBURE
+http://tv.univisionlive.net:25461/bashir/bashir@98/2969
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",MDF.1 MAGDEBURG
+http://tv.univisionlive.net:25461/bashir/bashir@98/2972
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",MMA JUNKIE
+http://tv.univisionlive.net:25461/bashir/bashir@98/2974
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",NEWS 24 ALBANIA
+http://tv.univisionlive.net:25461/bashir/bashir@98/2986
+#EXTINF:0 tvg-id="OraNews.al" group-title="News (Worldwide)",ORA News HD
+http://tv.univisionlive.net:25461/bashir/bashir@98/2993
+#EXTINF:0 tvg-id="rtrpl" group-title="News (Worldwide)",Planeta RTR
+http://tv.univisionlive.net:25461/bashir/bashir@98/2995
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",RED ETVI TOCANTINS
+http://tv.univisionlive.net:25461/bashir/bashir@98/3005
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",REPORT TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3006
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",RTSH 24
+http://tv.univisionlive.net:25461/bashir/bashir@98/3024
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",RTV Herceg-Bosne
+http://tv.univisionlive.net:25461/bashir/bashir@98/3027
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",Start TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3036
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",Studio 47
+http://tv.univisionlive.net:25461/bashir/bashir@98/3037
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",Z 1
+http://tv.univisionlive.net:25461/bashir/bashir@98/3038
+#EXTINF:0 tvg-id="SyriTV.al" group-title="News (Worldwide)",Syri TV
+http://tv.univisionlive.net:25461/bashir/bashir@98/3041
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",Teleonuba
+http://tv.univisionlive.net:25461/bashir/bashir@98/3042
+#EXTINF:0 tvg-id="TopNews.al" group-title="News (Worldwide)",Top News
+http://tv.univisionlive.net:25461/bashir/bashir@98/3048
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",TV Dielli
+http://tv.univisionlive.net:25461/bashir/bashir@98/3054
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",TV Halle
+http://tv.univisionlive.net:25461/bashir/bashir@98/3057
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",TVent
+http://tv.univisionlive.net:25461/bashir/bashir@98/3064
+#EXTINF:0 tvg-id="vesti" group-title="News (Worldwide)",Россия 24
+http://tv.univisionlive.net:25461/bashir/bashir@98/3084
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",Ariana TV US
+http://tv.univisionlive.net:25461/bashir/bashir@98/3093
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",ATN News (AG)
 http://tv.univisionlive.net:25461/bashir/bashir@98/3094
-#EXTINF:-1,Channel I (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",Bloomberg TV Asia
+http://tv.univisionlive.net:25461/bashir/bashir@98/3096
+#EXTINF:0 tvg-id="ext" group-title="News (Worldwide)",Bloomberg TV Asia Live Event
+http://tv.univisionlive.net:25461/bashir/bashir@98/3097
+
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Channel I (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4503
-#EXTINF:-1,Maasranga TV (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Maasranga TV (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4505
-#EXTINF:-1,Gazi TV (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Gazi TV (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4506
-#EXTINF:-1,Somoy TV (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Somoy TV (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4504
-#EXTINF:-1,Independent TV (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Independent TV (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4507
-#EXTINF:-1,Nexus TV (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Nexus TV (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4508
-#EXTINF:-1,Star Jalsha (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star Jalsha (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4509
-#EXTINF:-1,Star Jalsha Movies (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star Jalsha Movies (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4510
-#EXTINF:-1,Colors Bangla (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Zee Bangla (BDIX)
+http://tv.univisionlive.net:25461/bashir/bashir@98/4511
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Zee Bangla Cinema (BDIX)
+http://tv.univisionlive.net:25461/bashir/bashir@98/4512
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Colors Bangla (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4513
-#EXTINF:-1,Colors Bangla Chinema (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Colors Bangla Chinema (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4514
-#EXTINF:-1,Sony Aath (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Sony Aath (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4515
-#EXTINF:-1,Sun Bangla (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Sun Bangla (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4516
-#EXTINF:-1,Star Plus (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star Plus (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4517
-#EXTINF:-1,Sony TV (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Sony TV (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4518
-#EXTINF:-1,Sony Max (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Sony Max (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4519
-#EXTINF:-1,Zee TV (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Zee TV (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4520
-#EXTINF:-1,Zee Cinema HD (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Zee Cinema HD (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4521
-#EXTINF:-1,Colors TV (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Colors TV (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4522
-#EXTINF:-1,Colors Cineplex (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Colors Cineplex (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4523
-#EXTINF:-1,Star Gold (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star Gold (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4524
-#EXTINF:-1,Star Gold 2 HD (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star Gold 2 HD (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4525
-#EXTINF:-1,And Picture (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",UTV Action (BDIX)
+http://tv.univisionlive.net:25461/bashir/bashir@98/4526
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",And Picture (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4527
-#EXTINF:-1,Zoom (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Zoom (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4528
-#EXTINF:-1,Bindass (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Bindass (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4529
-#EXTINF:-1,Dhinchaak (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Dhinchaak (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4530
-#EXTINF:-1,9XM (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",9XM (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4538
-#EXTINF:-1,TLC (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",TLC (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4537
-#EXTINF:-1,Discovery (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Discovery (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4531
-#EXTINF:-1,Animal Planet (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",National Geographic (BDIX)
+http://tv.univisionlive.net:25461/bashir/bashir@98/4532
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Animal Planet (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4533
-#EXTINF:-1,National Wild (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",National Wild (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4534
-#EXTINF:-1,Discovery Science (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Discovery Science (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4536
-#EXTINF:-1,Travel XP (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Travel XP (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4535
-#EXTINF:-1,BBC Earth (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",BBC Earth (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4554
-#EXTINF:-1,Tsports (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Tsports (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4539
-#EXTINF:-1,Sony Six (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Sony Six (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4540
-#EXTINF:-1,Sony Ten 1 (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Sony Ten 1 (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4541
-#EXTINF:-1,Sony Ten 2 (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Sony Ten 2 (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4542
-#EXTINF:-1,Sony Ten 3 (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Sony Ten 3 (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4543
-#EXTINF:-1,Star Sports 1 (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star Sports 1 (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4544
-#EXTINF:-1,Star Sports 2 (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star Sports 2 (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4545
-#EXTINF:-1,Star Sports Select 2 (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star Sports Select 1 (BDIX)
+http://tv.univisionlive.net:25461/bashir/bashir@98/4546
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star Sports Select 2 (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4547
-#EXTINF:-1,Ten Sports (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Euro Sports (BDIX)
+http://tv.univisionlive.net:25461/bashir/bashir@98/4548
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Ten Sports (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4549
-#EXTINF:-1,PTV Sports HD (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",PTV Sports HD (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4550
-#EXTINF:-1,Sony Pix HD (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Sony Pix HD (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4551
-#EXTINF:-1,Movies Now (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Movies Now (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4552
-#EXTINF:-1,Star Movies (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star Movies (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4553
-#EXTINF:-1,MN+ (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",MN+ (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4555
-#EXTINF:-1,Star World (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Star World (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4556
-#EXTINF:-1,BBC World (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",MNX (BDIX)
+http://tv.univisionlive.net:25461/bashir/bashir@98/4557
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",BBC World (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4558
-#EXTINF:-1,Aljazeera (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Aljazeera (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4559
-#EXTINF:-1,DIscovery Kids (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",DIscovery Kids (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4560
-#EXTINF:-1,Nick (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Nick (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4561
-#EXTINF:-1,Cartoon Network (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Cartoon Network (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4562
-#EXTINF:-1,Pogo (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Pogo (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4563
-#EXTINF:-1,Madani Channel (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Madani Channel (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4564
-#EXTINF:-1,Quraan TV (BDIX)
+#EXTINF:0 tvg-id="ext" group-title="BDIX Channel",Quraan TV (BDIX)
 http://tv.univisionlive.net:25461/bashir/bashir@98/4565
-#EXTINF:-1,T SPORTS LIVE
+
+#EXTINF:0 tvg-id="ext" group-title="LIVE Event",T SPORTS LIVE
 http://tv.univisionlive.net:25461/bashir/bashir@98/4623
+#EXTINF:0 tvg-id="ext" group-title="LIVE Event",LIVE : BEIN
+http://tv.univisionlive.net:25461/bashir/bashir@98/4643
+#EXTINF:0 tvg-id="ext" group-title="LIVE Event",SL  VS AUS
+http://tv.univisionlive.net:25461/bashir/bashir@98/4653
