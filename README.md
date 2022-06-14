@@ -1,8 +1,6 @@
 # IPTV
 List of IPTV
 
-fav.m3u : \
-https://t.ly/myfav \
+fav.m3u : https://t.ly/myfav 
 
-bdristv.m3u : \\
-https://t.ly/bdristv \
+bdristv.m3u : https://t.ly/bdristv 
